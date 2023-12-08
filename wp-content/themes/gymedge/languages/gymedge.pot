@@ -1,0 +1,1112 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GymEdge\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-21 11:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: gymedge"
+
+#: inc/helper-functions.php:86
+#, php-format
+msgid "%1$s @ %2$s"
+msgstr ""
+
+#: inc/redux-config.php:267
+msgid "1 Column"
+msgstr ""
+
+#: inc/vc-settings.php:28
+msgid "1000 px"
+msgstr ""
+
+#: inc/vc-settings.php:29
+msgid "1050 px"
+msgstr ""
+
+#: inc/vc-settings.php:30
+msgid "1100 px"
+msgstr ""
+
+#: inc/vc-settings.php:31
+msgid "1150 px"
+msgstr ""
+
+#: inc/redux-config.php:896
+msgid "12-hour"
+msgstr ""
+
+#: inc/vc-settings.php:32
+msgid "1200 px"
+msgstr ""
+
+#: inc/redux-config.php:268
+msgid "2 Column"
+msgstr ""
+
+#: inc/redux-config.php:897
+msgid "24-hour"
+msgstr ""
+
+#: inc/redux-config.php:269
+msgid "3 Column"
+msgstr ""
+
+#: inc/redux-config.php:270
+msgid "4 Column"
+msgstr ""
+
+#: inc/redux-config.php:973
+msgid "404"
+msgstr ""
+
+#: inc/breadcrumbs.php:248
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/vc-settings.php:18
+msgid "500 px"
+msgstr ""
+
+#: inc/vc-settings.php:19
+msgid "550 px"
+msgstr ""
+
+#: inc/vc-settings.php:20
+msgid "600 px"
+msgstr ""
+
+#: inc/vc-settings.php:21
+msgid "650 px"
+msgstr ""
+
+#: inc/vc-settings.php:22
+msgid "700 px"
+msgstr ""
+
+#: inc/vc-settings.php:23
+msgid "750 px"
+msgstr ""
+
+#: inc/vc-settings.php:24
+msgid "800 px"
+msgstr ""
+
+#: inc/vc-settings.php:25
+msgid "850 px"
+msgstr ""
+
+#: inc/vc-settings.php:26
+msgid "900 px"
+msgstr ""
+
+#: inc/vc-settings.php:27
+msgid "950 px"
+msgstr ""
+
+#: wc-template-parts/content-shop-thumb.php:27
+msgid "Add to Wishlist"
+msgstr ""
+
+#: inc/redux-config.php:1154
+msgid "Additional Information Tab"
+msgstr ""
+
+#: inc/redux-config.php:1178
+msgid "Advanced"
+msgstr ""
+
+#: template-parts/content-single-trainer.php:32
+msgid "Age"
+msgstr ""
+
+#: wc-template-parts/content-shop-thumb.php:28
+msgid "Aleady exists in Wishlist! Click here to view Wishlist"
+msgstr ""
+
+#: template-parts/content-banner.php:20
+msgid "All Classes"
+msgstr ""
+
+#: template-parts/content-banner.php:16
+msgid "All Posts"
+msgstr ""
+
+#: template-parts/content-banner.php:23
+msgid "All Trainers"
+msgstr ""
+
+#: inc/breadcrumbs.php:249
+msgid "Archives"
+msgstr ""
+
+#: inc/woo-hooks.php:191
+msgid "Average"
+msgstr ""
+
+#: inc/redux-config.php:135
+msgid "Back to Top Arrow"
+msgstr ""
+
+#: inc/redux-config.php:327 inc/redux-config.php:444 inc/redux-config.php:524
+#: inc/redux-config.php:537 inc/redux-config.php:804
+msgid "Background Color"
+msgstr ""
+
+#: inc/redux-config.php:525 inc/redux-config.php:550 inc/redux-config.php:803
+msgid "Background Image"
+msgstr ""
+
+#: inc/redux-config.php:780
+msgid "Banner"
+msgstr ""
+
+#: inc/redux-config.php:826
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/redux-config.php:816
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/redux-config.php:801
+msgid "Banner Background Type"
+msgstr ""
+
+#: template-parts/content-single-trainer.php:53
+msgid "Biography:"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Template"
+msgstr ""
+
+#: inc/redux-config.php:859
+msgid "Blog / Archive"
+msgstr ""
+
+#: inc/redux-config.php:609
+msgid "Body"
+msgstr ""
+
+#: inc/redux-config.php:964
+msgid "Body Background Image"
+msgstr ""
+
+#: inc/redux-config.php:972
+msgid "Body Text 1"
+msgstr ""
+
+#: inc/redux-config.php:991
+msgid "Body Text 1,2 Color"
+msgstr ""
+
+#: inc/redux-config.php:978
+msgid "Body Text 2"
+msgstr ""
+
+#: inc/redux-config.php:984
+msgid "Body Text 3"
+msgstr ""
+
+#: inc/redux-config.php:788
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/breadcrumbs.php:246
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:245
+msgid "Browse:"
+msgstr ""
+
+#: inc/redux-config.php:997
+msgid "Button Text"
+msgstr ""
+
+#: template-parts/content-single.php:16
+msgid "By"
+msgstr ""
+
+#: inc/redux-config.php:303
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/redux-config.php:1162
+msgid "Cart Page"
+msgstr ""
+
+#: template-parts/content-single.php:19
+msgid "Categories"
+msgstr ""
+
+#: wc-template-parts/content-product-meta.php:4
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/redux-config.php:149
+msgid "Class Category Slug"
+msgstr ""
+
+#: inc/redux-config.php:905
+msgid "Class Single"
+msgstr ""
+
+#: inc/redux-config.php:143
+msgid "Class Slug"
+msgstr ""
+
+#: template-parts/content-single-class.php:63
+msgid "Class time"
+msgstr ""
+
+#: inc/redux-config.php:433
+msgid "Color Set"
+msgstr ""
+
+#: comments.php:15
+msgid "Comment"
+msgstr ""
+
+#: comments.php:67
+msgid "Comment *"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:255
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:12 template-parts/content-single.php:22
+msgid "Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/redux-config.php:168
+msgid "Contact & Socials"
+msgstr ""
+
+#: inc/redux-config.php:570
+msgid "Content"
+msgstr ""
+
+#: inc/vc-settings.php:14
+msgid "Content Maximum Width"
+msgstr ""
+
+#: inc/redux-config.php:773
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: inc/redux-config.php:766
+msgid "Content Padding Top"
+msgstr ""
+
+#: inc/redux-config.php:595
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/redux-config.php:581
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/redux-config.php:588
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/redux-config.php:1168
+msgid "Cross Sell Products"
+msgstr ""
+
+#: inc/redux-config.php:436
+msgid "Custom"
+msgstr ""
+
+#: inc/redux-config.php:1186
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/breadcrumbs.php:771 inc/breadcrumbs.php:1201
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/redux-config.php:435 inc/vc-settings.php:17
+msgid "Default"
+msgstr ""
+
+#: inc/redux-config.php:1138
+msgid "Description Tab"
+msgstr ""
+
+#: inc/redux-config.php:278 inc/redux-config.php:287
+msgid ""
+"Disable only if you want to display the same logo size you uploaded. If you "
+"are going to disable it, it's recommended that you upload a logo which "
+"height is less than 60px"
+msgstr ""
+
+#: inc/redux-config.php:120 inc/redux-config.php:137 inc/redux-config.php:280
+#: inc/redux-config.php:289 inc/redux-config.php:297 inc/redux-config.php:305
+#: inc/redux-config.php:320 inc/redux-config.php:782 inc/redux-config.php:790
+#: inc/redux-config.php:1084 inc/redux-config.php:1092
+#: inc/redux-config.php:1105 inc/redux-config.php:1124
+msgid "Disabled"
+msgstr ""
+
+#: inc/redux-config.php:318
+msgid "Display on Top"
+msgstr ""
+
+#: template-parts/content-single-trainer.php:30
+msgid "Education"
+msgstr ""
+
+#: comments.php:61 inc/redux-config.php:183
+#: template-parts/content-single-trainer.php:34
+msgid "Email"
+msgstr ""
+
+#: inc/woo-hooks.php:180
+msgid "Email *"
+msgstr ""
+
+#: inc/redux-config.php:119 inc/redux-config.php:136 inc/redux-config.php:279
+#: inc/redux-config.php:288 inc/redux-config.php:296 inc/redux-config.php:304
+#: inc/redux-config.php:319 inc/redux-config.php:781 inc/redux-config.php:789
+#: inc/redux-config.php:1083 inc/redux-config.php:1091
+#: inc/redux-config.php:1104 inc/redux-config.php:1123
+msgid "Enabled"
+msgstr ""
+
+#: inc/redux-config.php:959
+msgid "Error 404"
+msgstr ""
+
+#: inc/redux-config.php:925
+msgid "Error 404 Layout"
+msgstr ""
+
+#: inc/redux-config.php:1002
+msgid "Error Page Settings"
+msgstr ""
+
+#: template-parts/content-single-trainer.php:31
+msgid "Experience"
+msgstr ""
+
+#: inc/redux-config.php:190
+msgid "Facebook"
+msgstr ""
+
+#: inc/redux-config.php:277
+msgid "Fixed Height Logo"
+msgstr ""
+
+#: inc/redux-config.php:286
+msgid "Fixed Height Logo (in sticky menu)"
+msgstr ""
+
+#: inc/redux-config.php:468 inc/update-1.php:38
+msgid "Footer"
+msgstr ""
+
+#: inc/redux-config.php:487
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/redux-config.php:522
+msgid "Footer Background Type"
+msgstr ""
+
+#: inc/redux-config.php:511
+msgid "Footer Body Text Color"
+msgstr ""
+
+#: inc/redux-config.php:560
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/redux-config.php:499
+msgid "Footer Title Text Color"
+msgstr ""
+
+#: template-parts/archive-class.php:10
+msgid "Fri"
+msgstr ""
+
+#: template-parts/content-single-class.php:9
+msgid "Friday"
+msgstr ""
+
+#: inc/redux-config.php:738
+msgid "Full Width"
+msgstr ""
+
+#: inc/redux-config.php:96 inc/redux-config.php:1070
+msgid "General"
+msgstr ""
+
+#: inc/redux-config.php:998
+msgid "Go to Home Page"
+msgstr ""
+
+#: inc/woo-hooks.php:190
+msgid "Good"
+msgstr ""
+
+#: inc/scripts.php:7
+msgctxt "Google fonts - Open Sans and Roboto : on or off"
+msgid "on"
+msgstr ""
+
+#: inc/redux-config.php:202
+msgid "Google Plus"
+msgstr ""
+
+#. Name of the theme
+msgid "GymEdge"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"GymEdge - Gym Fitness, Yoga &amp; Personal Trainer WordPress Theme. It is "
+"fully responsive for all kind of devices like Desktop &amp; Mobile. It has 4 "
+"home pages multi page also 4 one pages. GymEdge has included all kind of "
+"features for Gym Fitness , Yoga &amp; Personal Trainer."
+msgstr ""
+
+#: inc/redux-config.php:22 inc/redux-config.php:23
+msgid "GymEdge Options"
+msgstr ""
+
+#: inc/redux-config.php:239
+msgid "Header"
+msgstr ""
+
+#: inc/redux-config.php:626
+msgid "Header h1"
+msgstr ""
+
+#: inc/redux-config.php:643
+msgid "Header h2"
+msgstr ""
+
+#: inc/redux-config.php:660
+msgid "Header h3"
+msgstr ""
+
+#: inc/redux-config.php:677
+msgid "Header h4"
+msgstr ""
+
+#: inc/redux-config.php:694
+msgid "Header h5"
+msgstr ""
+
+#: inc/redux-config.php:711
+msgid "Header h6"
+msgstr ""
+
+#: inc/redux-config.php:746
+msgid "Header Style"
+msgstr ""
+
+#: inc/general.php:38
+msgid "Header Top"
+msgstr ""
+
+#: inc/redux-config.php:1132 inc/redux-config.php:1140
+#: inc/redux-config.php:1148 inc/redux-config.php:1156
+#: inc/redux-config.php:1170
+msgid "Hide"
+msgstr ""
+
+#: inc/breadcrumbs.php:247
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:753
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://radiustheme.com"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://themeforest.net/item/gymedge-gym-fitness-wordpress-theme/19339465"
+msgstr ""
+
+#: inc/redux-config.php:313
+msgid "If you want to hide any field simply keep it empty"
+msgstr ""
+
+#: inc/redux-config.php:171
+msgid "In case you want to hide any field, just keep that field empty"
+msgstr ""
+
+#: inc/redux-config.php:226
+msgid "Instagram"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/redux-config.php:476 inc/redux-config.php:735
+msgid "Layout"
+msgstr ""
+
+#: inc/redux-config.php:840
+msgid "Layout Defaults"
+msgstr ""
+
+#: inc/redux-config.php:737
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/redux-config.php:255
+msgid "Light Logo"
+msgstr ""
+
+#: inc/redux-config.php:208
+msgid "Linkedin"
+msgstr ""
+
+#: inc/redux-config.php:264
+msgid "Logo Area Width"
+msgstr ""
+
+#: inc/redux-config.php:247
+msgid "Main Logo (Dark)"
+msgstr ""
+
+#: inc/redux-config.php:341
+msgid "Main Menu"
+msgstr ""
+
+#: inc/redux-config.php:259
+msgid "Mainly used in 2nd Header Style"
+msgstr ""
+
+#: inc/redux-config.php:382 inc/redux-config.php:452
+msgid "Menu Color"
+msgstr ""
+
+#: inc/redux-config.php:365
+msgid "Menu Font"
+msgstr ""
+
+#: inc/redux-config.php:389 inc/redux-config.php:460
+msgid "Menu Hover Color"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:257
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:719
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:736
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: template-parts/archive-class.php:6
+msgid "Mon"
+msgstr ""
+
+#: template-parts/content-single-class.php:5
+msgid "Monday"
+msgstr ""
+
+#: inc/breadcrumbs.php:770 inc/breadcrumbs.php:826 inc/breadcrumbs.php:1197
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: wc-template-parts/content-product-sku.php:7
+msgid "N/A"
+msgstr ""
+
+#: comments.php:58
+msgid "Name"
+msgstr ""
+
+#: inc/woo-hooks.php:179
+msgid "Name *"
+msgstr ""
+
+#: comments.php:40
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/woo-hooks.php:192
+msgid "Not that bad"
+msgstr ""
+
+#: template-parts/content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/redux-config.php:1076
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: inc/redux-config.php:351 inc/redux-config.php:359 inc/redux-config.php:1021
+#: inc/redux-config.php:1029 inc/redux-config.php:1037
+#: inc/redux-config.php:1045 inc/redux-config.php:1053
+msgid "Off"
+msgstr ""
+
+#: comments.php:39
+msgid "Older Comments"
+msgstr ""
+
+#: inc/redux-config.php:350 inc/redux-config.php:358 inc/redux-config.php:1020
+#: inc/redux-config.php:1028 inc/redux-config.php:1036
+#: inc/redux-config.php:1044 inc/redux-config.php:1052
+msgid "On"
+msgstr ""
+
+#: inc/redux-config.php:357
+msgid "Onepage Navigation"
+msgstr ""
+
+#: inc/redux-config.php:849
+msgid "Page"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:253
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/redux-config.php:979
+msgid "Page not Found"
+msgstr ""
+
+#: inc/redux-config.php:958
+msgid "Page Title"
+msgstr ""
+
+#: inc/redux-config.php:1187
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/woo-hooks.php:189
+msgid "Perfect"
+msgstr ""
+
+#: inc/redux-config.php:177 template-parts/content-single-trainer.php:35
+msgid "Phone"
+msgstr ""
+
+#: inc/redux-config.php:220
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:62
+#, php-format
+msgid ""
+"Please update plugin <b><i>GymEdge Core</b></i> to the latest version "
+"otherwise some functionalities will not work properly. You can update it "
+"from <a href='%s'>here</a>"
+msgstr ""
+
+#: inc/redux-config.php:127
+msgid ""
+"Please upload your choice of preloader image. Transparent GIF format is "
+"recommended"
+msgstr ""
+
+#: inc/redux-config.php:1011
+msgid "Post Settings"
+msgstr ""
+
+#: inc/redux-config.php:869
+msgid "Post Single"
+msgstr ""
+
+#: inc/redux-config.php:118
+msgid "Preloader"
+msgstr ""
+
+#: inc/redux-config.php:126
+msgid "Preloader Image"
+msgstr ""
+
+#: inc/general.php:37
+msgid "Primary"
+msgstr ""
+
+#: inc/redux-config.php:105
+msgid "Primary Color"
+msgstr ""
+
+#: inc/redux-config.php:1090
+msgid "Product Add to Wishlist Icon"
+msgstr ""
+
+#: inc/redux-config.php:1082
+msgid "Product Hover Effect"
+msgstr ""
+
+#: inc/redux-config.php:1103
+msgid "Product Quickview Icon"
+msgstr ""
+
+#: inc/redux-config.php:946
+msgid "Product Single"
+msgstr ""
+
+#: inc/redux-config.php:1116
+msgid "Product Single Page"
+msgstr ""
+
+#. Author of the theme
+msgid "RadiusTheme"
+msgstr ""
+
+#: inc/woo-hooks.php:188
+msgid "Rate&hellip;"
+msgstr ""
+
+#: template-parts/content-search.php:14 template-parts/content.php:15
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:7
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/redux-config.php:417
+msgid "Recommended value is: 992"
+msgstr ""
+
+#: woocommerce/single-product/related.php:57
+msgid "RELATED PRODUCTS"
+msgstr ""
+
+#: inc/redux-config.php:1130
+msgid "Related Products"
+msgstr ""
+
+#: comments.php:28
+msgid "Reply"
+msgstr ""
+
+#: inc/redux-config.php:1146
+msgid "Reviews Tab"
+msgstr ""
+
+#: inc/redux-config.php:739
+msgid "Right Sidebar"
+msgstr ""
+
+#: template-parts/archive-class.php:11
+msgid "Sat"
+msgstr ""
+
+#: template-parts/content-single-class.php:10
+msgid "Saturday"
+msgstr ""
+
+#: template-parts/content-single-class.php:26
+msgid "Schedule"
+msgstr ""
+
+#: inc/redux-config.php:894
+msgid "Schedule Time Format"
+msgstr ""
+
+#: inc/redux-config.php:416
+msgid "Screen width in which mobile menu activated"
+msgstr ""
+
+#: inc/update-1.php:10
+msgid "Search here ..."
+msgstr ""
+
+#: header.php:90
+msgid "Search Here......"
+msgstr ""
+
+#: inc/redux-config.php:295
+msgid "Search Icon"
+msgstr ""
+
+#: inc/redux-config.php:914
+msgid "Search Layout"
+msgstr ""
+
+#: template-parts/content-banner.php:9
+msgid "Search Results for : "
+msgstr ""
+
+#. %s is the search query.
+#: inc/breadcrumbs.php:251
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/redux-config.php:112
+msgid "Secondery/Hover Color"
+msgstr ""
+
+#: inc/helper-functions.php:174
+msgid "Select a Trainer"
+msgstr ""
+
+#: inc/redux-config.php:936
+msgid "Shop Archive"
+msgstr ""
+
+#: inc/redux-config.php:1131 inc/redux-config.php:1139
+#: inc/redux-config.php:1147 inc/redux-config.php:1155
+#: inc/redux-config.php:1169
+msgid "Show"
+msgstr ""
+
+#: inc/redux-config.php:1027
+msgid "Show Author Name"
+msgstr ""
+
+#: inc/redux-config.php:1035
+msgid "Show Categories"
+msgstr ""
+
+#: inc/redux-config.php:1043
+msgid "Show Comment Number"
+msgstr ""
+
+#: inc/redux-config.php:1122
+msgid "Show excerpt when short description doesn't exist"
+msgstr ""
+
+#: inc/redux-config.php:1019
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/redux-config.php:1051
+msgid "Show Tags"
+msgstr ""
+
+#: inc/update-1.php:30
+msgid "Sidebar"
+msgstr ""
+
+#: template-parts/content-single-trainer.php:58
+msgid "Skills:"
+msgstr ""
+
+#: header.php:45
+msgid "Skip to content"
+msgstr ""
+
+#: wc-template-parts/content-product-sku.php:9
+msgid "SKU:"
+msgstr ""
+
+#: inc/redux-config.php:232
+msgid "Skype"
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/redux-config.php:349
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/redux-config.php:427
+msgid "Sticky Menu Colors"
+msgstr ""
+
+#: inc/redux-config.php:478 inc/redux-config.php:750
+msgid "Style 1"
+msgstr ""
+
+#: inc/redux-config.php:479 inc/redux-config.php:754
+msgid "Style 2"
+msgstr ""
+
+#: inc/redux-config.php:758
+msgid "Style 3"
+msgstr ""
+
+#: inc/redux-config.php:403
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/redux-config.php:396
+msgid "Submenu Color"
+msgstr ""
+
+#: inc/redux-config.php:410
+msgid "Submenu Hover Background Color"
+msgstr ""
+
+#: template-parts/archive-class.php:12
+msgid "Sun"
+msgstr ""
+
+#: template-parts/content-single-class.php:11
+msgid "Sunday"
+msgstr ""
+
+#: wc-template-parts/content-product-meta.php:5
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/content-single.php:34
+msgid "Tags"
+msgstr ""
+
+#: inc/redux-config.php:334
+msgid "Text Color"
+msgstr ""
+
+#: inc/redux-config.php:985
+msgid ""
+"The page you are looking is not available or has been removed. Try going to "
+"Home Page by using the button below."
+msgstr ""
+
+#: template-parts/archive-class.php:9
+msgid "Thu"
+msgstr ""
+
+#: template-parts/content-single-class.php:8
+msgid "Thursday"
+msgstr ""
+
+#: inc/redux-config.php:311
+msgid "Top Bar Section"
+msgstr ""
+
+#: template-parts/content-single-class.php:65
+msgid "Trainer"
+msgstr ""
+
+#: inc/redux-config.php:161
+msgid "Trainer Category Slug"
+msgstr ""
+
+#: inc/redux-config.php:882
+msgid "Trainer Single"
+msgstr ""
+
+#: inc/redux-config.php:155
+msgid "Trainer Slug"
+msgstr ""
+
+#: template-parts/archive-class.php:7
+msgid "Tue"
+msgstr ""
+
+#: template-parts/content-single-class.php:6
+msgid "Tuesday"
+msgstr ""
+
+#: inc/redux-config.php:196
+msgid "Twitter"
+msgstr ""
+
+#: inc/redux-config.php:602
+msgid "Typography"
+msgstr ""
+
+#: inc/woo-hooks.php:193
+msgid "Very Poor"
+msgstr ""
+
+#: template-parts/archive-class.php:8
+msgid "Wed"
+msgstr ""
+
+#: template-parts/content-single-class.php:7
+msgid "Wednesday"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:259
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:799
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: template-parts/content-single-trainer.php:33
+msgid "Weight"
+msgstr ""
+
+#: inc/redux-config.php:265
+msgid ""
+"Width is defined by the number of bootstrap columns. Please note, navigation "
+"menu width will be decreased with the increase of logo width"
+msgstr ""
+
+#: inc/redux-config.php:1062
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/breadcrumbs.php:769 inc/breadcrumbs.php:798 inc/breadcrumbs.php:825
+#: inc/breadcrumbs.php:852 inc/breadcrumbs.php:1193
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/helper-functions.php:88
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/woo-hooks.php:186
+msgid "Your Rating"
+msgstr ""
+
+#: inc/woo-hooks.php:197
+msgid "Your Review *"
+msgstr ""
+
+#: inc/redux-config.php:214
+msgid "Youtube"
+msgstr ""

@@ -1,0 +1,3655 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GymEdge Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-01 07:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.0.3\n"
+"X-Domain: gymedge-core"
+
+#: vc-modules/views/bmi-calculator.php:61
+msgid " / cm"
+msgstr ""
+
+#: vc-modules/views/bmi-calculator.php:63
+msgid " / feet"
+msgstr ""
+
+#: vc-modules/views/bmi-calculator.php:64
+msgid " / inch"
+msgstr ""
+
+#: vc-modules/views/bmi-calculator.php:60
+msgid " / kg"
+msgstr ""
+
+#: vc-modules/views/bmi-calculator.php:62
+msgid " / lbs"
+msgstr ""
+
+#: radius-posts/rt-posts.php:47
+msgid " not found"
+msgstr ""
+
+#: radius-posts/rt-posts.php:48
+msgid " not found in Trash"
+msgstr ""
+
+#: vc-modules/pricing-box.php:9
+msgid "$199"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:53
+msgid ", and weight status is:"
+msgstr ""
+
+#: vc-modules/slider.php:139 vc-modules/slider.php:159
+#: vc-modules/slider.php:170 vc-modules/slider.php:181
+#: vc-modules/slider.php:192 vc-modules/slider.php:203
+msgid "--Select--"
+msgstr ""
+
+#: vc-modules/class.php:11 vc-modules/post-slider.php:10
+#: vc-modules/product-slider.php:10 vc-modules/trainer.php:10
+msgid "1 col"
+msgstr ""
+
+#: elementor/class-grid/class.php:46 elementor/product-slider/class.php:38
+#: elementor/testimonial-grid/class.php:46 elementor/trainer-grid/class.php:41
+msgid "1 Column"
+msgstr ""
+
+#: vc-modules/class.php:274 vc-modules/post-slider.php:216
+#: vc-modules/product-slider.php:187 vc-modules/testimonial.php:167
+#: vc-modules/trainer.php:365 elementor/class-slider/class.php:244
+#: elementor/class-upcoming/class.php:223 elementor/post-slider/class.php:222
+#: elementor/product-slider/class.php:187
+#: elementor/testimonial-slider/class.php:228
+#: elementor/trainer-slider/class.php:249
+msgid "1 Second"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:29 vc-modules/views/bmi-calculator.php:15
+msgid "18.5 - 24.9"
+msgstr ""
+
+#: vc-modules/class.php:12 vc-modules/post-slider.php:11
+#: vc-modules/product-slider.php:11 vc-modules/trainer.php:11
+msgid "2 col"
+msgstr ""
+
+#: elementor/class-grid/class.php:45 elementor/product-slider/class.php:39
+#: elementor/testimonial-grid/class.php:45 elementor/trainer-grid/class.php:40
+msgid "2 Column"
+msgstr ""
+
+#: vc-modules/class.php:273 vc-modules/post-slider.php:215
+#: vc-modules/product-slider.php:186 vc-modules/testimonial.php:166
+#: vc-modules/trainer.php:364 elementor/class-slider/class.php:243
+#: elementor/class-upcoming/class.php:222 elementor/post-slider/class.php:221
+#: elementor/product-slider/class.php:186
+#: elementor/testimonial-slider/class.php:227
+#: elementor/trainer-slider/class.php:248
+msgid "2 Seconds"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:30 vc-modules/views/bmi-calculator.php:16
+msgid "25 - 29.9"
+msgstr ""
+
+#: vc-modules/class.php:13 vc-modules/post-slider.php:12
+#: vc-modules/product-slider.php:12 vc-modules/trainer.php:12
+msgid "3 col"
+msgstr ""
+
+#: elementor/class-grid/class.php:44 elementor/product-slider/class.php:40
+#: elementor/testimonial-grid/class.php:44 elementor/trainer-grid/class.php:39
+msgid "3 Column"
+msgstr ""
+
+#: vc-modules/class.php:272 vc-modules/post-slider.php:214
+#: vc-modules/product-slider.php:185 vc-modules/testimonial.php:165
+#: vc-modules/trainer.php:363 elementor/class-slider/class.php:242
+#: elementor/class-upcoming/class.php:221 elementor/post-slider/class.php:220
+#: elementor/product-slider/class.php:185
+#: elementor/testimonial-slider/class.php:226
+#: elementor/trainer-slider/class.php:247
+msgid "3 Seconds"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:31 vc-modules/views/bmi-calculator.php:17
+msgid "30 and Above"
+msgstr ""
+
+#: vc-modules/class.php:14 vc-modules/post-slider.php:13
+#: vc-modules/product-slider.php:13 vc-modules/trainer.php:13
+msgid "4 col"
+msgstr ""
+
+#: elementor/class-grid/class.php:43 elementor/product-slider/class.php:41
+#: elementor/testimonial-grid/class.php:43 elementor/trainer-grid/class.php:38
+msgid "4 Column"
+msgstr ""
+
+#: vc-modules/class.php:271 vc-modules/post-slider.php:213
+#: vc-modules/product-slider.php:184 vc-modules/testimonial.php:164
+#: vc-modules/trainer.php:362 elementor/class-slider/class.php:241
+#: elementor/class-upcoming/class.php:220 elementor/post-slider/class.php:219
+#: elementor/product-slider/class.php:184
+#: elementor/testimonial-slider/class.php:225
+#: elementor/trainer-slider/class.php:246
+msgid "4 Seconds"
+msgstr ""
+
+#: elementor/product-slider/class.php:42
+msgid "5 Column"
+msgstr ""
+
+#: vc-modules/class.php:270 vc-modules/post-slider.php:212
+#: vc-modules/product-slider.php:183 vc-modules/testimonial.php:163
+#: vc-modules/trainer.php:361 elementor/class-slider/class.php:240
+#: elementor/class-upcoming/class.php:219 elementor/post-slider/class.php:218
+#: elementor/product-slider/class.php:183
+#: elementor/testimonial-slider/class.php:224
+#: elementor/trainer-slider/class.php:245
+msgid "5 Seconds"
+msgstr ""
+
+#: vc-modules/counter.php:8
+msgid "500+"
+msgstr ""
+
+#: vc-modules/class.php:15 vc-modules/post-slider.php:14
+#: vc-modules/product-slider.php:14 vc-modules/trainer.php:14
+msgid "6 col"
+msgstr ""
+
+#: elementor/product-slider/class.php:43
+msgid "6 Column"
+msgstr ""
+
+#: vc-modules/about.php:9
+msgid "<span class=\"gym-primary-color\">GYM</span> FITNESS"
+msgstr ""
+
+#: widgets/about-widget.php:71
+msgid "About Company"
+msgstr ""
+
+#: elementor/about-fitness/class.php:17
+msgid "About Fitness"
+msgstr ""
+
+#: elementor/testimonial-slider/class.php:374
+msgid "Active Navigation Background"
+msgstr ""
+
+#: vc-modules/experience.php:29
+msgid "Add as many experiences as you want"
+msgstr ""
+
+#: vc-modules/skill.php:18 elementor/experiences/class.php:32
+#: elementor/skills/class.php:32
+msgid "Add as many skills as you want"
+msgstr ""
+
+#: elementor/image-carousel/class.php:48
+msgid "Add Images"
+msgstr ""
+
+#: radius-posts/rt-fields.php:64
+msgid "Add More"
+msgstr ""
+
+#: radius-posts/rt-posts.php:40 radius-posts/rt-posts.php:41
+#: radius-posts/rt-posts.php:93
+msgid "Add New"
+msgstr ""
+
+#: post-meta.php:296
+msgid "Add New Schedule"
+msgstr ""
+
+#: post-meta.php:242
+msgid "Add New Skill"
+msgstr ""
+
+#: vc-modules/slider.php:17
+msgid "Add slide"
+msgstr ""
+
+#: elementor/image-carousel/class.php:199 elementor/rt-slider/class.php:605
+msgid "Additional Options"
+msgstr ""
+
+#: elementor/rt-slider/class.php:99
+msgid "Additional Settings"
+msgstr ""
+
+#: widgets/address-widget.php:65
+msgid "Address"
+msgstr ""
+
+#: vc-modules/intro.php:49 elementor/intro/class.php:54
+#: elementor/intro/class.php:225
+msgid "After Title"
+msgstr ""
+
+#: elementor/intro/class.php:266
+msgid "After Title Color"
+msgstr ""
+
+#: post-meta.php:220 elementor/trainer-single/view.php:63
+#: vc-modules/views/trainer-single.php:59
+msgid "Age"
+msgstr ""
+
+#: vc-modules/info-text.php:31 elementor/button/class.php:51
+#: elementor/image-carousel/class.php:575 elementor/info-text/class.php:60
+#: elementor/rt-slider/class.php:535
+msgid "Alignment"
+msgstr ""
+
+#: radius-posts/rt-posts.php:44 radius-posts/rt-posts.php:88
+#: vc-modules/gallery.php:9 elementor/routine/view-1.php:84
+#: vc-modules/views/routine.php:54
+msgid "All"
+msgstr ""
+
+#: vc-modules/about-fitness.php:25
+msgid "All <span style=\"font-weight: 600;\">About</span><br/>Fitness"
+msgstr ""
+
+#: vc-modules/about.php:8
+msgid "All About"
+msgstr ""
+
+#: vc-modules/class.php:29 vc-modules/post-grid.php:12
+#: vc-modules/post-list.php:12 vc-modules/post-slider.php:28
+#: vc-modules/product-slider.php:28 vc-modules/routine.php:87
+#: vc-modules/schedule.php:12 vc-modules/testimonial.php:22
+#: vc-modules/trainer.php:28 elementor/class-grid/class.php:26
+#: elementor/class-slider/class.php:32 elementor/post-grid/class.php:26
+#: elementor/post-list/class.php:26 elementor/post-slider/class.php:32
+#: elementor/product-slider/class.php:32 elementor/schedule/class.php:25
+#: elementor/testimonial-grid/class.php:26
+#: elementor/testimonial-slider/class.php:32
+#: elementor/trainer-grid/class.php:26 elementor/trainer-slider/class.php:32
+msgid "All Categories"
+msgstr ""
+
+#: vc-modules/gallery.php:84
+msgid "All items name"
+msgstr ""
+
+#: elementor/gallery/class.php:66
+msgid "All Items Title"
+msgstr ""
+
+#: vc-modules/bmi-calculator.php:61 elementor/bmi-calculator/class.php:64
+msgid "Allow users to change between Calculation Units"
+msgstr ""
+
+#: vc-modules/slider.php:204 elementor/rt-slider/class.php:1104
+msgid "Always Visible"
+msgstr ""
+
+#: vc-modules/slider.php:66 vc-modules/slider.php:95
+msgid "Animation Delay"
+msgstr ""
+
+#: vc-modules/slider.php:211 elementor/rt-slider/class.php:779
+msgid "Animation Overflow"
+msgstr ""
+
+#: elementor/image-carousel/class.php:301 elementor/rt-slider/class.php:769
+msgid "Animation Speed"
+msgstr ""
+
+#: vc-modules/slider.php:140
+msgid "Arrow and Dots"
+msgstr ""
+
+#: elementor/product-slider/class.php:371
+msgid "Arrow Background"
+msgstr ""
+
+#: elementor/rt-slider/class.php:1251 elementor/rt-slider/class.php:1300
+msgid "Arrow Border"
+msgstr ""
+
+#: elementor/product-slider/class.php:380
+msgid "Arrow Color"
+msgstr ""
+
+#: elementor/product-slider/class.php:389
+msgid "Arrow Hover Background"
+msgstr ""
+
+#: elementor/product-slider/class.php:398
+msgid "Arrow Hover Color"
+msgstr ""
+
+#: elementor/rt-slider/class.php:1116
+msgid "Arrow Position"
+msgstr ""
+
+#: vc-modules/slider.php:200 elementor/rt-slider/class.php:1100
+msgid "Arrow Visibility"
+msgstr ""
+
+#: vc-modules/slider.php:141 elementor/image-carousel/class.php:118
+#: elementor/image-carousel/class.php:338 elementor/rt-slider/class.php:617
+#: elementor/rt-slider/class.php:1088
+msgid "Arrows"
+msgstr ""
+
+#: elementor/image-carousel/class.php:117 elementor/rt-slider/class.php:616
+msgid "Arrows and Dots"
+msgstr ""
+
+#: elementor/class-grid/class.php:38 elementor/class-slider/class.php:44
+#: elementor/testimonial-grid/class.php:38
+#: elementor/testimonial-slider/class.php:44
+msgid "Ascending"
+msgstr ""
+
+#: elementor/class-slider/class.php:310
+msgid "Author"
+msgstr ""
+
+#: elementor/class-slider/class.php:424
+msgid "Author Color"
+msgstr ""
+
+#: elementor/class-slider/class.php:432
+msgid "Author Hover Color"
+msgstr ""
+
+#: elementor/class-slider/class.php:440
+msgid "Author Icon Color"
+msgstr ""
+
+#: elementor/class-slider/class.php:448
+msgid "Author Icon Hover Color"
+msgstr ""
+
+#: vc-modules/class.php:237 vc-modules/post-slider.php:179
+#: vc-modules/product-slider.php:150 vc-modules/slider.php:167
+#: vc-modules/testimonial.php:130 vc-modules/trainer.php:328
+#: elementor/class-slider/class.php:201 elementor/class-upcoming/class.php:198
+#: elementor/image-carousel/class.php:206 elementor/post-slider/class.php:179
+#: elementor/product-slider/class.php:144 elementor/rt-slider/class.php:695
+#: elementor/testimonial-slider/class.php:203
+#: elementor/trainer-slider/class.php:206
+msgid "Autoplay"
+msgstr ""
+
+#: vc-modules/class.php:267 vc-modules/post-slider.php:209
+#: vc-modules/product-slider.php:180 vc-modules/testimonial.php:160
+#: vc-modules/trainer.php:358 elementor/class-slider/class.php:238
+#: elementor/class-upcoming/class.php:217 elementor/post-slider/class.php:216
+#: elementor/product-slider/class.php:181
+#: elementor/testimonial-slider/class.php:222
+#: elementor/trainer-slider/class.php:243
+msgid "Autoplay Interval"
+msgstr ""
+
+#: vc-modules/class.php:287 vc-modules/post-slider.php:229
+#: vc-modules/product-slider.php:200 vc-modules/testimonial.php:180
+#: vc-modules/trainer.php:378 elementor/class-slider/class.php:253
+#: elementor/class-upcoming/class.php:232 elementor/post-slider/class.php:231
+#: elementor/product-slider/class.php:196
+#: elementor/testimonial-slider/class.php:237
+#: elementor/trainer-slider/class.php:258
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: elementor/image-carousel/class.php:255 elementor/rt-slider/class.php:742
+msgid "Autoplay Speed"
+msgstr ""
+
+#: vc-modules/schedule.php:42 elementor/rt-slider/class.php:962
+#: elementor/schedule/class.php:49
+msgid "Background"
+msgstr ""
+
+#: elementor/rt-slider/class.php:108
+msgid "Background Animation"
+msgstr ""
+
+#: post-meta.php:128 vc-modules/button.php:64
+#: elementor/rt-slider/class.php:1236 elementor/rt-slider/class.php:1285
+msgid "Background Color"
+msgstr ""
+
+#: vc-modules/button.php:72
+msgid "Background Hover Color"
+msgstr ""
+
+#: post-meta.php:127
+msgid "Background Image"
+msgstr ""
+
+#: elementor/rt-slider/class.php:1003
+msgid "Background on Hover"
+msgstr ""
+
+#: post-meta.php:103
+msgid "Banner"
+msgstr ""
+
+#: post-meta.php:138
+msgid "Banner Background Color"
+msgstr ""
+
+#: post-meta.php:133
+msgid "Banner Background Image"
+msgstr ""
+
+#: post-meta.php:123
+msgid "Banner Background Type"
+msgstr ""
+
+#: elementor/skills/class.php:96
+msgid "Bar Background"
+msgstr ""
+
+#: elementor/skills/class.php:104
+msgid "Bar Highlighted Background"
+msgstr ""
+
+#: vc-modules/cta-discount.php:10
+msgid "BECOME A MEMBER"
+msgstr ""
+
+#: vc-modules/intro.php:33 elementor/intro/class.php:42
+#: elementor/intro/class.php:211
+msgid "Before Title"
+msgstr ""
+
+#: elementor/intro/class.php:254
+msgid "Before Title Color"
+msgstr ""
+
+#: vc-modules/cta-signup.php:8
+msgid "BEING <span class=\"gym-primary-color\">BODY</span>"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:28 vc-modules/views/bmi-calculator.php:14
+msgid "Below 18.5"
+msgstr ""
+
+#: elementor/testimonial-grid/class.php:168
+#: elementor/testimonial-slider/class.php:347
+msgid "Blockquote Icon Color"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:62
+msgid "BMI"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:17
+msgid "BMI Calculator"
+msgstr ""
+
+#: elementor/rt-slider/class.php:973 elementor/rt-slider/class.php:1014
+msgid "Border"
+msgstr ""
+
+#: vc-modules/button.php:80 elementor/experiences/class.php:90
+msgid "Border Color"
+msgstr ""
+
+#: elementor/image-carousel/class.php:550 elementor/rt-slider/class.php:1028
+#: elementor/rt-slider/class.php:1191
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/button/class.php:74
+msgid "Border Width"
+msgstr ""
+
+#: elementor/class-slider/class.php:339 elementor/pricing-box/class.php:152
+#: elementor/schedule/class.php:118 elementor/trainer-grid/class.php:258
+#: elementor/trainer-slider/class.php:385
+msgid "Box Background"
+msgstr ""
+
+#: elementor/counter/class.php:179
+msgid "Box Border Color"
+msgstr ""
+
+#: elementor/class-slider/class.php:355
+msgid "Box Hover Background"
+msgstr ""
+
+#: elementor/pricing-box/class.php:161
+msgid "Box Text Color"
+msgstr ""
+
+#: post-meta.php:113
+msgid "Breadcrumb"
+msgstr ""
+
+#: vc-modules/slider.php:28
+msgid "BUILD <span>YOUR</span> BODY <span>STRONG</span>"
+msgstr ""
+
+#: vc-modules/cta-signup.php:9
+msgid "BUILDERS"
+msgstr ""
+
+#: vc-modules/schedule.php:53 elementor/button/class.php:18
+#: elementor/button/class.php:114 elementor/cta/class.php:98
+#: elementor/gallery/class.php:96 elementor/intro/class.php:239
+msgid "Button"
+msgstr ""
+
+#: vc-modules/button.php:36
+msgid "Button Alignment"
+msgstr ""
+
+#: elementor/rt-slider/class.php:394
+msgid "Button Animation"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:188 elementor/button/class.php:129
+#: elementor/class-grid/class.php:325 elementor/class-slider/class.php:456
+#: elementor/cta/class.php:133 elementor/gallery/class.php:123
+#: elementor/intro/class.php:286 elementor/pricing-box/class.php:179
+#: elementor/product-slider/class.php:338 elementor/schedule/class.php:155
+msgid "Button Background"
+msgstr ""
+
+#: elementor/button/class.php:137 elementor/class-grid/class.php:337
+#: elementor/class-slider/class.php:467 elementor/gallery/class.php:139
+#: elementor/intro/class.php:297 elementor/pricing-box/class.php:197
+msgid "Button Border Color"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:196 elementor/button/class.php:145
+#: elementor/class-grid/class.php:349 elementor/class-slider/class.php:478
+#: elementor/cta/class.php:141 elementor/gallery/class.php:131
+#: elementor/intro/class.php:308 elementor/pricing-box/class.php:188
+#: elementor/product-slider/class.php:347 elementor/schedule/class.php:163
+msgid "Button Color"
+msgstr ""
+
+#: vc-modules/slider.php:124
+msgid "Button Delay"
+msgstr ""
+
+#: elementor/intro/class.php:66
+msgid "Button Display"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:204 elementor/button/class.php:153
+#: elementor/class-grid/class.php:361 elementor/class-slider/class.php:489
+#: elementor/cta/class.php:149 elementor/gallery/class.php:147
+#: elementor/intro/class.php:319 elementor/pricing-box/class.php:206
+#: elementor/product-slider/class.php:355 elementor/schedule/class.php:171
+msgid "Button Hover Background"
+msgstr ""
+
+#: elementor/button/class.php:161 elementor/class-grid/class.php:373
+#: elementor/class-slider/class.php:500 elementor/gallery/class.php:165
+#: elementor/intro/class.php:330
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:212 elementor/button/class.php:169
+#: elementor/class-grid/class.php:385 elementor/class-slider/class.php:511
+#: elementor/cta/class.php:157 elementor/gallery/class.php:156
+#: elementor/intro/class.php:341 elementor/pricing-box/class.php:215
+#: elementor/product-slider/class.php:363 elementor/schedule/class.php:179
+msgid "Button Hover Color"
+msgstr ""
+
+#: elementor/button/class.php:40 elementor/cta/class.php:63
+#: elementor/pricing-box/class.php:77
+msgid "Button Link"
+msgstr ""
+
+#: elementor/button/class.php:94
+msgid "Button Padding"
+msgstr ""
+
+#: elementor/rt-slider/class.php:506
+msgid "Button Paralax Delay"
+msgstr ""
+
+#: elementor/rt-slider/class.php:920
+msgid "Button Settings"
+msgstr ""
+
+#: post-meta.php:285 vc-modules/about.php:62 vc-modules/bmi-calculator.php:72
+#: vc-modules/button.php:21 vc-modules/cta-discount.php:49
+#: vc-modules/cta-signup.php:39 vc-modules/cta.php:52 vc-modules/intro.php:65
+#: vc-modules/pricing-box.php:100 vc-modules/slider.php:222
+#: elementor/bmi-calculator/class.php:73 elementor/button/class.php:34
+#: elementor/cta/class.php:57 elementor/intro/class.php:75
+#: elementor/pricing-box/class.php:70 elementor/rt-slider/class.php:928
+msgid "Button Text"
+msgstr ""
+
+#: post-meta.php:290 vc-modules/about.php:70 vc-modules/button.php:29
+#: vc-modules/cta-discount.php:57 vc-modules/cta-signup.php:47
+#: vc-modules/cta.php:60 vc-modules/intro.php:73 vc-modules/pricing-box.php:112
+#: elementor/intro/class.php:82
+msgid "Button URL"
+msgstr ""
+
+#: vc-modules/slider.php:111
+msgid "Button X Axix"
+msgstr ""
+
+#: vc-modules/slider.php:117
+msgid "Button Y Axix"
+msgstr ""
+
+#: vc-modules/bmi-calculator.php:10 elementor/bmi-calculator/class.php:74
+msgid "CALCULATE"
+msgstr ""
+
+#: vc-modules/bmi-calculator.php:8
+msgid "CALCULATE YOUR BMI"
+msgstr ""
+
+#: elementor/cta/class.php:18
+msgid "Call to Action"
+msgstr ""
+
+#: elementor/image-carousel/class.php:173
+#: elementor/image-carousel/class.php:179
+#: elementor/image-carousel/class.php:564
+msgid "Caption"
+msgstr ""
+
+#: elementor/rt-slider/class.php:1077
+msgid "Carousel Settings"
+msgstr ""
+
+#: vc-modules/class.php:95 vc-modules/post-list.php:23
+#: vc-modules/post-slider.php:63 vc-modules/product-slider.php:61
+#: vc-modules/testimonial.php:61 vc-modules/trainer.php:108
+#: elementor/class-grid/class.php:75 elementor/class-slider/class.php:80
+#: elementor/product-slider/class.php:72
+#: elementor/testimonial-grid/class.php:70
+#: elementor/testimonial-slider/class.php:99
+msgid "Categories"
+msgstr ""
+
+#: vc-modules/gallery.php:43
+msgid "Categories to Display"
+msgstr ""
+
+#: vc-modules/post-grid.php:23 elementor/post-grid/class.php:52
+#: elementor/post-list/class.php:52 elementor/post-slider/class.php:69
+#: elementor/schedule/class.php:57
+msgid "Category"
+msgstr ""
+
+#: elementor/base.php:124 vc-modules/button.php:40
+#: elementor/button/class.php:59 elementor/image-carousel/class.php:482
+#: elementor/image-carousel/class.php:583 elementor/info-text/class.php:68
+#: elementor/rt-slider/class.php:543
+msgid "Center"
+msgstr ""
+
+#: radius-posts/rt-fields.php:217
+msgid "Choose Image"
+msgstr ""
+
+#: vc-modules/class.php:142
+msgid "Choose Image Size"
+msgstr ""
+
+#: post-types.php:14 vc-modules/schedule.php:27 elementor/schedule/class.php:42
+msgid "Class"
+msgstr ""
+
+#: post-types.php:45 vc-modules/routine.php:124 vc-modules/schedule.php:34
+#: elementor/routine/class.php:137
+msgid "Class Categories"
+msgstr ""
+
+#: post-types.php:44
+msgid "Class Category"
+msgstr ""
+
+#: elementor/class-grid/class.php:18
+msgid "Class Grid"
+msgstr ""
+
+#: elementor/class-slider/class.php:18
+msgid "Class Slider"
+msgstr ""
+
+#: elementor/class-upcoming/class.php:269
+msgid "Class Title"
+msgstr ""
+
+#: elementor/class-upcoming/class.php:310
+msgid "Class Title Box Background"
+msgstr ""
+
+#: elementor/class-upcoming/class.php:318
+msgid "Class Title Color"
+msgstr ""
+
+#: elementor/class-upcoming/class.php:19
+msgid "Class Upcoming"
+msgstr ""
+
+#: post-types.php:15
+msgid "Classes"
+msgstr ""
+
+#: post-meta.php:280 elementor/button/class.php:124
+#: elementor/class-grid/class.php:199 elementor/class-slider/class.php:323
+#: elementor/class-upcoming/class.php:289 elementor/counter/class.php:158
+#: elementor/cta/class.php:108 elementor/experiences/class.php:79
+#: elementor/gallery/class.php:107 elementor/image-carousel/class.php:387
+#: elementor/image-carousel/class.php:450 elementor/info-text/class.php:285
+#: elementor/post-grid/class.php:98 elementor/post-list/class.php:98
+#: elementor/post-slider/class.php:293 elementor/pricing-box/class.php:147
+#: elementor/product-slider/class.php:252 elementor/routine/class.php:231
+#: elementor/rt-slider/class.php:951 elementor/rt-slider/class.php:1222
+#: elementor/rt-slider/class.php:1271 elementor/rt-slider/class.php:1364
+#: elementor/schedule/class.php:113 elementor/skills/class.php:79
+#: elementor/testimonial-grid/class.php:139
+#: elementor/testimonial-slider/class.php:310
+#: elementor/trainer-grid/class.php:215 elementor/trainer-single/class.php:156
+#: elementor/trainer-slider/class.php:333
+msgid "Color"
+msgstr ""
+
+#: elementor/rt-slider/class.php:992
+msgid "Color Hover"
+msgstr ""
+
+#: elementor/routine/class.php:197
+msgid "Column Heading"
+msgstr ""
+
+#: elementor/class-grid/class.php:124 elementor/product-slider/class.php:97
+#: elementor/trainer-grid/class.php:136
+msgid "Columns ( Desktops > 1199px )"
+msgstr ""
+
+#: elementor/class-grid/class.php:131 elementor/product-slider/class.php:104
+#: elementor/trainer-grid/class.php:143
+msgid "Columns ( Desktops > 991px )"
+msgstr ""
+
+#: elementor/class-grid/class.php:145 elementor/product-slider/class.php:118
+#: elementor/trainer-grid/class.php:157
+msgid "Columns ( Phones < 768px )"
+msgstr ""
+
+#: elementor/class-grid/class.php:138 elementor/product-slider/class.php:111
+#: elementor/trainer-grid/class.php:150
+msgid "Columns ( Tablets > 767px )"
+msgstr ""
+
+#: vc-modules/info-text.php:150 elementor/bmi-calculator/class.php:48
+#: elementor/bmi-calculator/class.php:99 elementor/class-grid/class.php:183
+#: elementor/info-text/class.php:55 elementor/intro/class.php:232
+#: elementor/post-slider/class.php:276 elementor/testimonial-grid/class.php:126
+#: elementor/testimonial-slider/class.php:297
+#: elementor/trainer-grid/class.php:201 elementor/trainer-single/class.php:126
+#: elementor/trainer-slider/class.php:319
+msgid "Content"
+msgstr ""
+
+#: elementor/routine/class.php:236
+msgid "Content Box Background"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:136 elementor/class-grid/class.php:316
+#: elementor/intro/class.php:278 elementor/post-slider/class.php:323
+#: elementor/testimonial-grid/class.php:162
+#: elementor/testimonial-slider/class.php:341
+#: elementor/trainer-grid/class.php:251 elementor/trainer-single/class.php:176
+#: elementor/trainer-slider/class.php:378
+msgid "Content Color"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:87 elementor/trainer-single/class.php:66
+#: elementor/trainer-slider/class.php:93
+msgid "Content Display"
+msgstr ""
+
+#: vc-modules/info-text.php:159
+msgid "Content Font Size"
+msgstr ""
+
+#: vc-modules/info-text.php:162
+msgid ""
+"Content font size in px. If not defined, default body font size will be used"
+msgstr ""
+
+#: vc-modules/cta-signup.php:54
+msgid "Content Left spacing"
+msgstr ""
+
+#: vc-modules/trainer.php:95
+msgid "Content Limit"
+msgstr ""
+
+#: vc-modules/info-text.php:200
+msgid ""
+"Content maximum width in px. Keep this field empty if you want full width"
+msgstr ""
+
+#: post-meta.php:84
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: post-meta.php:65
+msgid "Content Padding Top"
+msgstr ""
+
+#: elementor/pricing-box/class.php:113
+msgid "Content Style"
+msgstr ""
+
+#: vc-modules/info-text.php:197 elementor/info-text/class.php:149
+#: elementor/intro/class.php:152 elementor/pricing-box/class.php:118
+#: elementor/title/class.php:64
+msgid "Content Width"
+msgstr ""
+
+#: widgets/address-widget.php:51
+msgid "Corporate Office"
+msgstr ""
+
+#: elementor/counter/class.php:18
+msgid "Counter"
+msgstr ""
+
+#: vc-modules/button.php:85 vc-modules/counter.php:100 vc-modules/cta.php:65
+#: vc-modules/experience.php:49 vc-modules/info-text.php:204
+#: vc-modules/intro.php:144 vc-modules/pricing-box.php:148
+#: vc-modules/skill.php:38 vc-modules/slider.php:237 vc-modules/title.php:74
+msgid "Css"
+msgstr ""
+
+#: elementor/cta/class.php:113
+msgid "CTA Background"
+msgstr ""
+
+#: elementor/image-carousel/class.php:506 elementor/rt-slider/class.php:126
+#: elementor/rt-slider/class.php:262 elementor/rt-slider/class.php:397
+msgid "Custom"
+msgstr ""
+
+#: vc-modules/info-text.php:50 elementor/info-text/class.php:105
+msgid "Custom Image"
+msgstr ""
+
+#: vc-modules/class.php:108 vc-modules/gallery.php:65
+#: vc-modules/post-grid.php:36 vc-modules/post-list.php:36
+#: vc-modules/post-slider.php:76 vc-modules/testimonial.php:74
+#: vc-modules/trainer.php:151
+msgid "Custom Order (Available via Order field inside Page Attributes box)"
+msgstr ""
+
+#: elementor/class-grid/class.php:34 elementor/class-slider/class.php:40
+#: elementor/gallery/class.php:29 elementor/post-grid/class.php:34
+#: elementor/post-list/class.php:34 elementor/post-slider/class.php:40
+#: elementor/testimonial-grid/class.php:34
+#: elementor/testimonial-slider/class.php:40
+#: elementor/trainer-grid/class.php:34 elementor/trainer-slider/class.php:40
+msgid "Custom Order (Available via Order field inside Post Attributes box)"
+msgstr ""
+
+#: elementor/image-carousel/class.php:135
+msgid "Custom URL"
+msgstr ""
+
+#: vc-modules/testimonial.php:84 elementor/cta/class.php:38
+msgid "Dark"
+msgstr ""
+
+#: vc-modules/bmi-calculator.php:25 vc-modules/experience.php:22
+#: vc-modules/intro.php:26 vc-modules/routine.php:113
+#: vc-modules/testimonial.php:50 elementor/bmi-calculator/class.php:35
+#: elementor/intro/class.php:35 elementor/routine/class.php:128
+#: elementor/testimonial-slider/class.php:71
+msgid "Dark (Requires Dark Background)"
+msgstr ""
+
+#: elementor/post-grid/class.php:87 elementor/post-list/class.php:87
+#: elementor/post-slider/class.php:283
+msgid "Date"
+msgstr ""
+
+#: vc-modules/class.php:106 vc-modules/gallery.php:63
+#: vc-modules/post-grid.php:34 vc-modules/post-list.php:34
+#: vc-modules/post-slider.php:74 vc-modules/testimonial.php:72
+#: vc-modules/trainer.php:149 elementor/class-grid/class.php:32
+#: elementor/class-slider/class.php:38 elementor/gallery/class.php:27
+#: elementor/post-grid/class.php:32 elementor/post-list/class.php:32
+#: elementor/post-slider/class.php:38 elementor/testimonial-grid/class.php:32
+#: elementor/testimonial-slider/class.php:38
+#: elementor/trainer-grid/class.php:32 elementor/trainer-slider/class.php:38
+msgid "Date (Recents comes first)"
+msgstr ""
+
+#: elementor/post-grid/class.php:119 elementor/post-slider/class.php:331
+msgid "Date Background"
+msgstr ""
+
+#: elementor/post-grid/class.php:127 elementor/post-list/class.php:119
+#: elementor/post-slider/class.php:339
+msgid "Date Color"
+msgstr ""
+
+#: elementor/class-grid/class.php:282 elementor/class-slider/class.php:371
+msgid "Day Background"
+msgstr ""
+
+#: elementor/class-grid/class.php:293 elementor/class-slider/class.php:382
+msgid "Day Color"
+msgstr ""
+
+#: elementor/routine/class.php:245
+msgid "Day Heading Background"
+msgstr ""
+
+#: elementor/routine/class.php:254
+msgid "Day Heading Color"
+msgstr ""
+
+#: post-meta.php:12 post-meta.php:20 post-meta.php:31 post-meta.php:47
+#: post-meta.php:58 post-meta.php:68 post-meta.php:87 post-meta.php:106
+#: post-meta.php:116 post-meta.php:126 elementor/cta/class.php:36
+#: elementor/image-carousel/class.php:75 elementor/image-carousel/class.php:88
+#: elementor/image-carousel/class.php:160
+#: elementor/image-carousel/class.php:505 elementor/info-text/class.php:128
+#: elementor/rt-slider/class.php:125 elementor/rt-slider/class.php:261
+#: elementor/rt-slider/class.php:396
+msgid "Default"
+msgstr ""
+
+#: vc-modules/bmi-calculator.php:50 elementor/bmi-calculator/class.php:54
+msgid "Default Calculation Unit"
+msgstr ""
+
+#: vc-modules/inc/abstruct.php:60
+msgid "Default Image Size"
+msgstr ""
+
+#: elementor/class-grid/class.php:39 elementor/class-slider/class.php:45
+#: elementor/testimonial-grid/class.php:39
+#: elementor/testimonial-slider/class.php:45
+msgid "Descending"
+msgstr ""
+
+#: vc-modules/about.php:54 vc-modules/experience.php:42 vc-modules/intro.php:57
+#: widgets/about-widget.php:90 elementor/experiences/class.php:42
+#: elementor/experiences/class.php:69 elementor/image-carousel/class.php:180
+#: elementor/intro/class.php:60
+msgid "Description"
+msgstr ""
+
+#: elementor/experiences/class.php:96
+msgid "Description Color"
+msgstr ""
+
+#: vc-modules/trainer.php:186
+msgid "Description display"
+msgstr ""
+
+#: vc-modules/button.php:87 vc-modules/counter.php:102 vc-modules/cta.php:67
+#: vc-modules/experience.php:51 vc-modules/info-text.php:206
+#: vc-modules/intro.php:146 vc-modules/pricing-box.php:150
+#: vc-modules/skill.php:40 vc-modules/slider.php:239 vc-modules/title.php:76
+msgid "Design options"
+msgstr ""
+
+#: post-meta.php:208 post-meta.php:337 elementor/testimonial-grid/class.php:119
+#: elementor/testimonial-slider/class.php:290
+#: elementor/trainer-grid/class.php:194 elementor/trainer-single/class.php:118
+#: elementor/trainer-slider/class.php:312
+msgid "Designation"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:238 elementor/trainer-slider/class.php:365
+msgid "Designation Background"
+msgstr ""
+
+#: elementor/testimonial-grid/class.php:156
+#: elementor/testimonial-slider/class.php:335
+#: elementor/trainer-grid/class.php:245 elementor/trainer-single/class.php:169
+#: elementor/trainer-slider/class.php:372
+msgid "Designation Color"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:79 elementor/trainer-single/class.php:58
+#: elementor/trainer-slider/class.php:85
+msgid "Designation Display"
+msgstr ""
+
+#: vc-modules/trainer.php:174
+msgid "Designation display"
+msgstr ""
+
+#: elementor/class-slider/class.php:130 elementor/class-upcoming/class.php:127
+#: elementor/post-slider/class.php:108
+#: elementor/testimonial-slider/class.php:132
+#: elementor/trainer-slider/class.php:135
+msgid "Desktops: > 1199px"
+msgstr ""
+
+#: elementor/class-slider/class.php:142 elementor/class-upcoming/class.php:139
+#: elementor/post-slider/class.php:120
+#: elementor/testimonial-slider/class.php:144
+#: elementor/trainer-slider/class.php:147
+msgid "Desktops: > 991px"
+msgstr ""
+
+#: vc-modules/pricing-box.php:11
+msgid "DETAILS"
+msgstr ""
+
+#: elementor/class-grid/view-2.php:65 elementor/class-slider/view-2.php:58
+#: vc-modules/views/class-grid-nopag.php:45
+#: vc-modules/views/class-slider-2.php:59
+msgid "Details"
+msgstr ""
+
+#: elementor/image-carousel/class.php:312 elementor/rt-slider/class.php:679
+msgid "Direction"
+msgstr ""
+
+#: post-meta.php:108 post-meta.php:118 vc-modules/slider.php:172
+#: vc-modules/slider.php:183
+msgid "Disable"
+msgstr ""
+
+#: post-meta.php:33 post-meta.php:60 vc-modules/bmi-calculator.php:65
+#: vc-modules/class-upcoming.php:114 vc-modules/class.php:215
+#: vc-modules/class.php:227 vc-modules/class.php:241 vc-modules/class.php:254
+#: vc-modules/class.php:305 vc-modules/info-text.php:180
+#: vc-modules/post-slider.php:157 vc-modules/post-slider.php:169
+#: vc-modules/post-slider.php:183 vc-modules/post-slider.php:196
+#: vc-modules/post-slider.php:247 vc-modules/product-slider.php:128
+#: vc-modules/product-slider.php:140 vc-modules/product-slider.php:154
+#: vc-modules/product-slider.php:167 vc-modules/product-slider.php:218
+#: vc-modules/routine.php:135 vc-modules/routine.php:147
+#: vc-modules/routine.php:159 vc-modules/schedule.php:46
+#: vc-modules/schedule.php:57 vc-modules/testimonial.php:134
+#: vc-modules/testimonial.php:147 vc-modules/testimonial.php:198
+#: vc-modules/trainer.php:178 vc-modules/trainer.php:190
+#: vc-modules/trainer.php:202 vc-modules/trainer.php:218
+#: vc-modules/trainer.php:234 vc-modules/trainer.php:306
+#: vc-modules/trainer.php:318 vc-modules/trainer.php:332
+#: vc-modules/trainer.php:345 vc-modules/trainer.php:396
+msgid "Disabled"
+msgstr ""
+
+#: elementor/schedule/class.php:67
+msgid "Display Button"
+msgstr ""
+
+#: vc-modules/slider.php:142 elementor/image-carousel/class.php:119
+#: elementor/image-carousel/class.php:401 elementor/rt-slider/class.php:618
+#: elementor/rt-slider/class.php:1315
+msgid "Dots"
+msgstr ""
+
+#: radius-posts/rt-posts.php:42 radius-posts/rt-posts.php:91
+msgid "Edit"
+msgstr ""
+
+#: post-meta.php:212
+msgid "Education"
+msgstr ""
+
+#: vc-modules/slider.php:156 elementor/image-carousel/class.php:284
+#: elementor/rt-slider/class.php:666
+msgid "Effect"
+msgstr ""
+
+#: post-meta.php:252
+msgid "eg. 75"
+msgstr ""
+
+#: vc-modules/pricing-box.php:81
+msgid "eg. month or year"
+msgstr ""
+
+#: elementor/pricing-box/class.php:58
+msgid "eg. month or year. Keep empty if you don't want to show unit"
+msgstr ""
+
+#: post-meta.php:247
+msgid "eg. Yoga"
+msgstr ""
+
+#: post-meta.php:228 widgets/address-widget.php:73
+#: elementor/trainer-single/view.php:65 vc-modules/views/trainer-single.php:61
+msgid "Email"
+msgstr ""
+
+#: post-meta.php:107 post-meta.php:117 vc-modules/slider.php:171
+#: vc-modules/slider.php:182
+msgid "Enable"
+msgstr ""
+
+#: vc-modules/class.php:243 vc-modules/post-slider.php:185
+#: vc-modules/product-slider.php:156 vc-modules/testimonial.php:136
+#: vc-modules/trainer.php:334
+msgid "Enable or disable autoplay. Default: Enable"
+msgstr ""
+
+#: elementor/class-slider/class.php:214 elementor/class-slider/class.php:223
+#: elementor/post-slider/class.php:192 elementor/post-slider/class.php:201
+#: elementor/trainer-slider/class.php:219
+#: elementor/trainer-slider/class.php:228
+msgid "Enable or disable autoplay. Default: Off"
+msgstr ""
+
+#: elementor/class-slider/class.php:205 elementor/class-upcoming/class.php:202
+#: elementor/post-slider/class.php:183 elementor/product-slider/class.php:148
+#: elementor/testimonial-slider/class.php:207
+#: elementor/trainer-slider/class.php:210
+msgid "Enable or disable autoplay. Default: On"
+msgstr ""
+
+#: vc-modules/class.php:217 vc-modules/post-slider.php:159
+#: vc-modules/product-slider.php:130 vc-modules/trainer.php:308
+msgid "Enable or disable navigation arrow. Default: Enable"
+msgstr ""
+
+#: vc-modules/class.php:230 vc-modules/post-slider.php:172
+#: vc-modules/product-slider.php:143 vc-modules/trainer.php:321
+msgid "Enable or disable navigation dots. Default: Disable"
+msgstr ""
+
+#: elementor/product-slider/class.php:157
+#: elementor/product-slider/class.php:166
+msgid "Enable or disable slider navigation. Default: On"
+msgstr ""
+
+#: post-meta.php:32 post-meta.php:59 vc-modules/bmi-calculator.php:64
+#: vc-modules/class-upcoming.php:113 vc-modules/class.php:214
+#: vc-modules/class.php:228 vc-modules/class.php:240 vc-modules/class.php:253
+#: vc-modules/class.php:304 vc-modules/info-text.php:179
+#: vc-modules/post-slider.php:156 vc-modules/post-slider.php:170
+#: vc-modules/post-slider.php:182 vc-modules/post-slider.php:195
+#: vc-modules/post-slider.php:246 vc-modules/product-slider.php:127
+#: vc-modules/product-slider.php:141 vc-modules/product-slider.php:153
+#: vc-modules/product-slider.php:166 vc-modules/product-slider.php:217
+#: vc-modules/routine.php:136 vc-modules/routine.php:148
+#: vc-modules/routine.php:160 vc-modules/schedule.php:45
+#: vc-modules/schedule.php:56 vc-modules/testimonial.php:133
+#: vc-modules/testimonial.php:146 vc-modules/testimonial.php:197
+#: vc-modules/trainer.php:177 vc-modules/trainer.php:189
+#: vc-modules/trainer.php:201 vc-modules/trainer.php:217
+#: vc-modules/trainer.php:233 vc-modules/trainer.php:305
+#: vc-modules/trainer.php:319 vc-modules/trainer.php:331
+#: vc-modules/trainer.php:344 vc-modules/trainer.php:395
+msgid "Enabled"
+msgstr ""
+
+#: elementor/image-carousel/class.php:486
+msgid "End"
+msgstr ""
+
+#: post-meta.php:323
+msgid "End Time"
+msgstr ""
+
+#: post-meta.php:287
+msgid "Enter button text eg. Join Now!"
+msgstr ""
+
+#: post-meta.php:292
+msgid "Enter button url"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:54
+msgid "Error: All field values must be a number"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:54
+msgid "Error: One or more fields are empty"
+msgstr ""
+
+#: elementor/post-slider/class.php:90 elementor/trainer-grid/class.php:95
+#: elementor/trainer-slider/class.php:101
+msgid "Excerpt Length"
+msgstr ""
+
+#: post-meta.php:216 elementor/experiences/class.php:17
+#: elementor/trainer-single/view.php:62 vc-modules/views/trainer-single.php:58
+msgid "Experience"
+msgstr ""
+
+#: vc-modules/trainer.php:8
+msgid "EXPERT TRAINERS"
+msgstr ""
+
+#: post-meta.php:150 vc-modules/intro.php:81 elementor/intro/class.php:107
+msgid "Facebook"
+msgstr ""
+
+#: widgets/about-widget.php:94
+msgid "Facebook URL"
+msgstr ""
+
+#: vc-modules/slider.php:161 elementor/image-carousel/class.php:289
+#: elementor/rt-slider/class.php:671
+msgid "Fade"
+msgstr ""
+
+#: widgets/address-widget.php:77
+msgid "Fax"
+msgstr ""
+
+#: vc-modules/class.php:9
+msgid "FEATURED CLASSES"
+msgstr ""
+
+#: vc-modules/pricing-box.php:57 vc-modules/pricing-box.php:87
+#: elementor/pricing-box/class.php:63
+msgid "Features"
+msgstr ""
+
+#: vc-modules/cta-discount.php:8
+msgid "FITNESS CLASSES THIS SUMMER."
+msgstr ""
+
+#: vc-modules/intro.php:137
+msgid "Flickr"
+msgstr ""
+
+#: elementor/rt-slider/class.php:1151
+msgid "Font Size"
+msgstr ""
+
+#: vc-modules/title.php:70
+msgid "Font size in px eg. 20px"
+msgstr ""
+
+#: vc-modules/title.php:62
+msgid "Font size in px eg. 28px"
+msgstr ""
+
+#: vc-modules/info-text.php:49
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: gymedge-core.php:149
+msgid "Fri"
+msgstr ""
+
+#: gymedge-core.php:133 post-meta.php:313
+msgid "Friday"
+msgstr ""
+
+#: vc-modules/inc/abstruct.php:70
+msgid "Full Size"
+msgstr ""
+
+#: post-meta.php:21
+msgid "Full Width"
+msgstr ""
+
+#: post-types.php:29
+msgid "Galleries"
+msgstr ""
+
+#: post-types.php:28 elementor/gallery/class.php:12
+msgid "Gallery"
+msgstr ""
+
+#: post-types.php:56
+msgid "Gallery Categories"
+msgstr ""
+
+#: post-types.php:55
+msgid "Gallery Category"
+msgstr ""
+
+#: elementor/about-fitness/class.php:27 elementor/bmi-calculator/class.php:27
+#: elementor/button/class.php:29 elementor/class-grid/class.php:53
+#: elementor/class-slider/class.php:52 elementor/class-upcoming/class.php:98
+#: elementor/counter/class.php:29 elementor/counter/class.php:69
+#: elementor/cta/class.php:29 elementor/experiences/class.php:27
+#: elementor/gallery/class.php:36 elementor/info-text/class.php:27
+#: elementor/info-text/class.php:145 elementor/intro/class.php:27
+#: elementor/intro/class.php:148 elementor/post-grid/class.php:41
+#: elementor/post-list/class.php:41 elementor/post-slider/class.php:47
+#: elementor/pricing-box/class.php:29 elementor/pricing-box/class.php:93
+#: elementor/product-slider/class.php:51 elementor/routine/class.php:110
+#: elementor/schedule/class.php:34 elementor/skills/class.php:27
+#: elementor/testimonial-grid/class.php:53
+#: elementor/testimonial-slider/class.php:52 elementor/title/class.php:27
+#: elementor/title/class.php:60 elementor/trainer-grid/class.php:48
+#: elementor/trainer-single/class.php:46 elementor/trainer-slider/class.php:47
+msgid "General"
+msgstr ""
+
+#: vc-modules/button.php:10 vc-modules/cta.php:11
+msgid "Get It Now"
+msgstr ""
+
+#: post-meta.php:190
+msgid "Github"
+msgstr ""
+
+#: post-meta.php:165 vc-modules/intro.php:97
+msgid "Google Plus"
+msgstr ""
+
+#: widgets/about-widget.php:102
+msgid "Google Plus URL"
+msgstr ""
+
+#: vc-modules/class.php:44 vc-modules/testimonial.php:39
+#: vc-modules/trainer.php:58
+msgid "Grid"
+msgstr ""
+
+#: elementor/class-grid/class.php:111 elementor/product-slider/class.php:93
+#: elementor/trainer-grid/class.php:132
+msgid "Grid Column"
+msgstr ""
+
+#: vc-modules/class.php:67
+msgid "Grid Style"
+msgstr ""
+
+#: vc-modules/class.php:45
+msgid "Grid Without Pagination"
+msgstr ""
+
+#: vc-modules/inc/abstruct.php:48
+msgid "GymEdge"
+msgstr ""
+
+#. Name of the plugin
+msgid "GymEdge Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "GymEdge Core Plugin for GymEdge Theme"
+msgstr ""
+
+#. Base ID
+#: vc-modules/about.php:5 widgets/about-widget.php:7
+msgid "GymEdge: About"
+msgstr ""
+
+#: vc-modules/about-fitness.php:5
+msgid "GymEdge: About Fitness"
+msgstr ""
+
+#: widgets/about-widget.php:8
+msgid "GymEdge: About Widget"
+msgstr ""
+
+#. Base ID
+#: widgets/address-widget.php:7
+msgid "GymEdge: Address"
+msgstr ""
+
+#: widgets/address-widget.php:8
+msgid "GymEdge: Address Widget"
+msgstr ""
+
+#: vc-modules/bmi-calculator.php:5
+msgid "GymEdge: BMI Calculator"
+msgstr ""
+
+#: vc-modules/button.php:7
+msgid "GymEdge: Button"
+msgstr ""
+
+#: vc-modules/cta.php:7
+msgid "GymEdge: Call To Action"
+msgstr ""
+
+#: vc-modules/cta-discount.php:5
+msgid "GymEdge: Call to Action - Discount"
+msgstr ""
+
+#: vc-modules/cta-signup.php:5
+msgid "GymEdge: Call to Action - Signup"
+msgstr ""
+
+#: vc-modules/class.php:6
+msgid "GymEdge: Class"
+msgstr ""
+
+#: vc-modules/counter.php:5
+msgid "GymEdge: Counter"
+msgstr ""
+
+#: vc-modules/experience.php:7
+msgid "GymEdge: Experience"
+msgstr ""
+
+#: vc-modules/gallery.php:5
+msgid "GymEdge: Gallery"
+msgstr ""
+
+#: vc-modules/info-text.php:5
+msgid "GymEdge: Info Text"
+msgstr ""
+
+#: vc-modules/intro.php:5
+msgid "GymEdge: Introduction"
+msgstr ""
+
+#: vc-modules/post-grid.php:5
+msgid "GymEdge: Post Grid"
+msgstr ""
+
+#: vc-modules/post-list.php:5
+msgid "GymEdge: Post List"
+msgstr ""
+
+#: vc-modules/post-slider.php:5
+msgid "GymEdge: Post Slider"
+msgstr ""
+
+#: vc-modules/pricing-box.php:5
+msgid "GymEdge: Pricing Box"
+msgstr ""
+
+#: vc-modules/product-slider.php:5
+msgid "GymEdge: Product Slider"
+msgstr ""
+
+#: vc-modules/routine.php:5
+msgid "GymEdge: Routine"
+msgstr ""
+
+#: vc-modules/schedule.php:5
+msgid "GymEdge: Schedule"
+msgstr ""
+
+#: vc-modules/title.php:5
+msgid "GymEdge: Section Title"
+msgstr ""
+
+#: vc-modules/skill.php:7
+msgid "GymEdge: Skills"
+msgstr ""
+
+#: vc-modules/slider.php:6
+msgid "GymEdge: Slider"
+msgstr ""
+
+#: vc-modules/testimonial.php:5
+msgid "GymEdge: Testimonials"
+msgstr ""
+
+#: vc-modules/trainer.php:5
+msgid "GymEdge: Trainer"
+msgstr ""
+
+#: vc-modules/class-upcoming.php:5
+msgid "GymEdge: Upcoming Class"
+msgstr ""
+
+#: post-meta.php:44
+msgid "Header Style"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:47
+msgid "Height / cm"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:49
+msgid "Height / feet"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:50
+msgid "Height / inch"
+msgstr ""
+
+#: vc-modules/slider.php:215 elementor/rt-slider/class.php:783
+msgid "Hidden"
+msgstr ""
+
+#: elementor/about-fitness/class.php:63
+msgid "Highlight"
+msgstr ""
+
+#: elementor/about-fitness/class.php:84
+msgid "Highlight Color"
+msgstr ""
+
+#: demo-importer-ocdi.php:19
+msgid "Home"
+msgstr ""
+
+#: demo-importer-ocdi.php:104
+msgid "Home 1"
+msgstr ""
+
+#: demo-importer-ocdi.php:62 demo-importer-ocdi.php:146
+msgid "Home 1 (Onepage)"
+msgstr ""
+
+#: demo-importer-ocdi.php:103 demo-importer.php:91
+msgid "Home 1 / Gym Fitness (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:18 demo-importer.php:31
+msgid "Home 1 / Gym Fitness (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:145 demo-importer.php:121
+msgid "Home 1 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:61 demo-importer.php:61
+msgid "Home 1 Onepage (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:26 demo-importer-ocdi.php:111
+msgid "Home 2"
+msgstr ""
+
+#: demo-importer-ocdi.php:69 demo-importer-ocdi.php:153
+msgid "Home 2 (Onepage)"
+msgstr ""
+
+#: demo-importer-ocdi.php:110 demo-importer.php:96
+msgid "Home 2 / Gym Fitness (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:25 demo-importer.php:36
+msgid "Home 2 / Gym Fitness (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:152 demo-importer.php:126
+msgid "Home 2 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:68 demo-importer.php:66
+msgid "Home 2 Onepage (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:33 demo-importer-ocdi.php:118
+msgid "Home 3"
+msgstr ""
+
+#: demo-importer-ocdi.php:76 demo-importer-ocdi.php:160
+msgid "Home 3 (Onepage)"
+msgstr ""
+
+#: demo-importer-ocdi.php:117 demo-importer.php:101
+msgid "Home 3 / Yoga (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:32 demo-importer.php:41
+msgid "Home 3 / Yoga (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:159 demo-importer.php:131
+msgid "Home 3 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:75 demo-importer.php:71
+msgid "Home 3 Onepage (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:40 demo-importer-ocdi.php:125
+msgid "Home 4"
+msgstr ""
+
+#: demo-importer-ocdi.php:83 demo-importer-ocdi.php:167
+msgid "Home 4 (Onepage)"
+msgstr ""
+
+#: demo-importer-ocdi.php:124 demo-importer.php:106
+msgid "Home 4 / Personal Trainer (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:39 demo-importer.php:46
+msgid "Home 4 / Personal Trainer (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:166 demo-importer.php:136
+msgid "Home 4 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:82 demo-importer.php:76
+msgid "Home 4 Onepage (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:47 demo-importer-ocdi.php:132
+msgid "Home 5"
+msgstr ""
+
+#: demo-importer-ocdi.php:90 demo-importer-ocdi.php:174
+msgid "Home 5 (Onepage)"
+msgstr ""
+
+#: demo-importer-ocdi.php:131 demo-importer.php:111
+msgid "Home 5 / Gym Fitness (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:46 demo-importer.php:51
+msgid "Home 5 / Gym Fitness (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:173 demo-importer.php:141
+msgid "Home 5 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:89 demo-importer.php:81
+msgid "Home 5 Onepage (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:54 demo-importer-ocdi.php:139
+msgid "Home 6"
+msgstr ""
+
+#: demo-importer-ocdi.php:97 demo-importer-ocdi.php:181
+msgid "Home 6 (Onepage)"
+msgstr ""
+
+#: demo-importer-ocdi.php:138 demo-importer.php:116
+msgid "Home 6 / Personal Trainer (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:53 demo-importer.php:56
+msgid "Home 6 / Personal Trainer (WPBakery)"
+msgstr ""
+
+#: demo-importer-ocdi.php:180 demo-importer.php:146
+msgid "Home 6 Onepage (Elementor)"
+msgstr ""
+
+#: demo-importer-ocdi.php:96 demo-importer.php:86
+msgid "Home 6 Onepage (WPBakery)"
+msgstr ""
+
+#: elementor/rt-slider/class.php:683
+msgid "Horizontal"
+msgstr ""
+
+#: elementor/rt-slider/class.php:984 elementor/rt-slider/class.php:1264
+msgid "Hover"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://radiustheme.com"
+msgstr ""
+
+#: elementor/button/class.php:46 elementor/cta/class.php:69
+msgid "https://example.com"
+msgstr ""
+
+#: elementor/image-carousel/class.php:145 elementor/rt-slider/class.php:91
+msgid "https://your-link.com"
+msgstr ""
+
+#: vc-modules/about.php:56 vc-modules/info-text.php:152
+msgid ""
+"I am Info Text block. Click edit button to change this text. Lorem ipsum "
+"dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: vc-modules/title.php:8
+msgid "I AM TITLE"
+msgstr ""
+
+#: vc-modules/info-text.php:8
+msgid "I am title"
+msgstr ""
+
+#: vc-modules/counter.php:29 vc-modules/info-text.php:55
+#: elementor/counter/class.php:56 elementor/info-text/class.php:97
+#: elementor/info-text/class.php:104 elementor/info-text/class.php:112
+msgid "Icon"
+msgstr ""
+
+#: elementor/counter/class.php:188 elementor/product-slider/class.php:306
+msgid "Icon Background"
+msgstr ""
+
+#: elementor/counter/class.php:197 elementor/product-slider/class.php:314
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/product-slider/class.php:322
+msgid "Icon Hover Background"
+msgstr ""
+
+#: elementor/product-slider/class.php:330
+msgid "Icon Hover Color"
+msgstr ""
+
+#: vc-modules/counter.php:64 vc-modules/info-text.php:120
+msgid "Icon Left/Right padding"
+msgstr ""
+
+#: vc-modules/counter.php:66
+msgid "Icon left/right padding value in px. Default: 18"
+msgstr ""
+
+#: vc-modules/info-text.php:122
+msgid ""
+"Icon left/right padding value in px. Default: 18. Doesn't work with custom "
+"image"
+msgstr ""
+
+#: elementor/counter/class.php:119 elementor/info-text/class.php:223
+msgid "Icon Padding"
+msgstr ""
+
+#: elementor/counter/class.php:98 elementor/info-text/class.php:258
+msgid "Icon Size"
+msgstr ""
+
+#: vc-modules/counter.php:42 vc-modules/info-text.php:98
+msgid "Icon size"
+msgstr ""
+
+#: vc-modules/counter.php:44 vc-modules/info-text.php:100
+msgid "Icon size in px"
+msgstr ""
+
+#: vc-modules/counter.php:51 vc-modules/info-text.php:107
+msgid "Icon Top/Bottom padding"
+msgstr ""
+
+#: vc-modules/counter.php:53
+msgid "Icon top/bottom padding value in px. Default: 15"
+msgstr ""
+
+#: vc-modules/info-text.php:109
+msgid ""
+"Icon top/bottom padding value in px. Default: 15. Doesn't work with custom "
+"image"
+msgstr ""
+
+#: vc-modules/info-text.php:46 elementor/info-text/class.php:101
+msgid "Icon Type"
+msgstr ""
+
+#: post-meta.php:135 post-meta.php:140
+msgid "If not selected, default will be used"
+msgstr ""
+
+#: vc-modules/about-fitness.php:16 vc-modules/about.php:77
+#: vc-modules/cta-signup.php:63 elementor/about-fitness/class.php:32
+#: elementor/image-carousel/class.php:466 elementor/info-text/class.php:119
+msgid "Image"
+msgstr ""
+
+#: elementor/image-carousel/class.php:26 elementor/image-carousel/class.php:41
+msgid "Image Carousel"
+msgstr ""
+
+#: elementor/class-grid/class.php:117 elementor/class-slider/class.php:122
+msgid "Image Size"
+msgstr ""
+
+#: elementor/image-carousel/class.php:518
+msgid "Image Spacing"
+msgstr ""
+
+#: elementor/image-carousel/class.php:100
+msgid "Image Stretch"
+msgstr ""
+
+#: vc-modules/info-text.php:83 elementor/info-text/class.php:126
+msgid "Image Style"
+msgstr ""
+
+#: vc-modules/bmi-calculator.php:54 elementor/bmi-calculator/class.php:57
+msgid "Imperial"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:20
+msgid "Imperial Units"
+msgstr ""
+
+#: demo-importer-ocdi.php:285 demo-importer.php:23
+msgid ""
+"Import your desired demo contents between WPBakery and Elementor page "
+"builder. Please, install and activate plugin before import demo."
+msgstr ""
+
+#: vc-modules/pricing-box.php:72
+msgid "Including currency sign eg. $199"
+msgstr ""
+
+#: vc-modules/slider.php:178 elementor/image-carousel/class.php:270
+#: elementor/rt-slider/class.php:756
+msgid "Infinite Loop"
+msgstr ""
+
+#: elementor/info-text/class.php:17
+msgid "Info Text"
+msgstr ""
+
+#: elementor/trainer-single/class.php:204
+msgid "Information Color"
+msgstr ""
+
+#: elementor/trainer-single/class.php:82
+msgid "Information Display"
+msgstr ""
+
+#: vc-modules/trainer.php:214
+msgid "Information display"
+msgstr ""
+
+#: elementor/trainer-single/class.php:142
+msgid "Information Title"
+msgstr ""
+
+#: elementor/trainer-single/class.php:197
+msgid "Information Title Color"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:151
+msgid "Input Border Color"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:142
+msgid "Input Color"
+msgstr ""
+
+#: elementor/image-carousel/class.php:354
+#: elementor/image-carousel/class.php:418 elementor/rt-slider/class.php:1332
+msgid "Inside"
+msgstr ""
+
+#: post-meta.php:185 vc-modules/intro.php:129 elementor/intro/class.php:128
+msgid "Instagram"
+msgstr ""
+
+#: widgets/about-widget.php:114
+msgid "Instagram URL"
+msgstr ""
+
+#: demo-importer.php:13
+msgid "Install Demo Contents"
+msgstr ""
+
+#: elementor/intro/class.php:17
+msgid "Intro"
+msgstr ""
+
+#: vc-modules/class.php:128 vc-modules/trainer.php:133
+#: elementor/trainer-grid/class.php:64 elementor/trainer-slider/class.php:70
+msgid "Items Per Page"
+msgstr ""
+
+#: vc-modules/intro.php:11 elementor/intro/class.php:76
+msgid "JOIN NOW"
+msgstr ""
+
+#: elementor/class-grid/view-3.php:97
+#: vc-modules/views/class-grid-nopag-2.php:77
+msgid "Join Now"
+msgstr ""
+
+#: elementor/rt-slider/class.php:930
+msgid "JOIN WITH US"
+msgstr ""
+
+#: elementor/image-carousel/class.php:591
+msgid "Justified"
+msgstr ""
+
+#: vc-modules/pricing-box.php:127
+msgid "Keep this field empty if don't want to link to another page"
+msgstr ""
+
+#: vc-modules/info-text.php:170
+msgid "keep this field empty if you don't want the title linkable"
+msgstr ""
+
+#: vc-modules/post-slider.php:8
+msgid "LATEST POSTS "
+msgstr ""
+
+#: post-meta.php:17 vc-modules/class.php:40 vc-modules/info-text.php:19
+#: vc-modules/trainer.php:54
+msgid "Layout"
+msgstr ""
+
+#: vc-modules/info-text.php:22
+msgid "Layout 1"
+msgstr ""
+
+#: vc-modules/info-text.php:23
+msgid "Layout 2"
+msgstr ""
+
+#: vc-modules/info-text.php:24
+msgid "Layout 3"
+msgstr ""
+
+#: post-meta.php:14
+msgid "Layout Settings"
+msgstr ""
+
+#: elementor/base.php:120 vc-modules/button.php:39
+#: elementor/button/class.php:55 elementor/image-carousel/class.php:316
+#: elementor/image-carousel/class.php:579 elementor/info-text/class.php:64
+#: elementor/rt-slider/class.php:539
+msgid "Left"
+msgstr ""
+
+#: post-meta.php:22
+msgid "Left Sidebar"
+msgstr ""
+
+#: vc-modules/cta-signup.php:57
+msgid "Left spacing in px. Default: -110"
+msgstr ""
+
+#: vc-modules/testimonial.php:85 elementor/cta/class.php:37
+msgid "Light"
+msgstr ""
+
+#: vc-modules/bmi-calculator.php:24 vc-modules/experience.php:21
+#: vc-modules/intro.php:25 vc-modules/routine.php:112
+#: vc-modules/testimonial.php:49 elementor/bmi-calculator/class.php:34
+#: elementor/intro/class.php:34 elementor/routine/class.php:127
+#: elementor/testimonial-slider/class.php:70
+msgid "Light (No Background)"
+msgstr ""
+
+#: elementor/image-carousel/class.php:156
+msgid "Lightbox"
+msgstr ""
+
+#: elementor/class-grid/class.php:248 elementor/testimonial-grid/class.php:176
+#: elementor/testimonial-slider/class.php:357
+msgid "Line Color"
+msgstr ""
+
+#: vc-modules/pricing-box.php:124 elementor/image-carousel/class.php:129
+#: elementor/image-carousel/class.php:143
+msgid "Link"
+msgstr ""
+
+#: elementor/post-slider/class.php:388
+msgid "Link Icon Border Color"
+msgstr ""
+
+#: elementor/post-slider/class.php:379
+msgid "Link Icon Color"
+msgstr ""
+
+#: vc-modules/routine.php:132 elementor/routine/class.php:147
+msgid "Linkable"
+msgstr ""
+
+#: vc-modules/routine.php:138 elementor/routine/class.php:151
+msgid "Linked to class page or not"
+msgstr ""
+
+#: post-meta.php:160 vc-modules/intro.php:105 elementor/intro/class.php:121
+msgid "Linkedin"
+msgstr ""
+
+#: widgets/about-widget.php:106
+msgid "Linkedin URL"
+msgstr ""
+
+#: vc-modules/class.php:301 vc-modules/post-slider.php:243
+#: vc-modules/product-slider.php:214 vc-modules/testimonial.php:194
+#: vc-modules/trainer.php:392 elementor/class-slider/class.php:261
+#: elementor/class-upcoming/class.php:240 elementor/post-slider/class.php:239
+#: elementor/product-slider/class.php:204
+#: elementor/testimonial-slider/class.php:245
+#: elementor/trainer-slider/class.php:266
+msgid "Loop"
+msgstr ""
+
+#: vc-modules/class.php:307 vc-modules/post-slider.php:249
+#: vc-modules/product-slider.php:220 vc-modules/testimonial.php:200
+#: vc-modules/trainer.php:398
+msgid "Loop to first item. Default: Enable"
+msgstr ""
+
+#: elementor/class-slider/class.php:265 elementor/class-upcoming/class.php:244
+#: elementor/post-slider/class.php:243 elementor/product-slider/class.php:208
+#: elementor/testimonial-slider/class.php:249
+#: elementor/trainer-slider/class.php:270
+msgid "Loop to first item. Default: On"
+msgstr ""
+
+#: post-meta.php:38
+msgid "Main Menu"
+msgstr ""
+
+#: elementor/rt-slider/class.php:838 elementor/rt-slider/class.php:893
+msgid "Margin Bottom"
+msgstr ""
+
+#: vc-modules/class-upcoming.php:121
+msgid "Maximum number of slider items"
+msgstr ""
+
+#: vc-modules/post-list.php:46 vc-modules/post-slider.php:95
+#: elementor/trainer-grid/class.php:98 elementor/trainer-slider/class.php:104
+msgid "Maximum number of words"
+msgstr ""
+
+#: vc-modules/trainer.php:102
+msgid "Maximum number of words to display. Default: 20"
+msgstr ""
+
+#: vc-modules/pricing-box.php:137
+msgid "Maximum width"
+msgstr ""
+
+#: vc-modules/pricing-box.php:140
+msgid "Maximum width in px. Keep empty if you want full width. eg. 300"
+msgstr ""
+
+#: vc-modules/counter.php:96
+msgid "Maximum width in px. Keep this field empty if you want full width"
+msgstr ""
+
+#: elementor/image-carousel/class.php:134
+msgid "Media File"
+msgstr ""
+
+#: vc-modules/bmi-calculator.php:53 elementor/bmi-calculator/class.php:56
+msgid "Metric"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:19
+msgid "Metric Units"
+msgstr ""
+
+#: gymedge-core.php:145
+msgid "Mon"
+msgstr ""
+
+#: gymedge-core.php:129 post-meta.php:309
+msgid "Monday"
+msgstr ""
+
+#: vc-modules/pricing-box.php:10
+msgid "month"
+msgstr ""
+
+#: elementor/testimonial-grid/class.php:112
+#: elementor/testimonial-slider/class.php:283
+#: elementor/trainer-grid/class.php:178 elementor/trainer-grid/class.php:186
+#: elementor/trainer-single/class.php:111
+#: elementor/trainer-slider/class.php:296
+#: elementor/trainer-slider/class.php:304
+msgid "Name"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:220 elementor/trainer-slider/class.php:347
+msgid "Name Background"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:229 elementor/trainer-single/class.php:161
+msgid "Name Color"
+msgstr ""
+
+#: vc-modules/slider.php:136 elementor/image-carousel/class.php:113
+#: elementor/image-carousel/class.php:327 elementor/rt-slider/class.php:612
+msgid "Navigation"
+msgstr ""
+
+#: vc-modules/class.php:211 vc-modules/post-slider.php:153
+#: vc-modules/product-slider.php:124 vc-modules/trainer.php:302
+#: elementor/class-slider/class.php:210 elementor/post-slider/class.php:188
+#: elementor/product-slider/class.php:153
+#: elementor/trainer-slider/class.php:215
+msgid "Navigation Arrow"
+msgstr ""
+
+#: elementor/class-upcoming/class.php:342 elementor/post-slider/class.php:347
+#: elementor/routine/class.php:294 elementor/schedule/class.php:187
+#: elementor/testimonial-slider/class.php:366
+#: elementor/trainer-slider/class.php:457
+msgid "Navigation Background"
+msgstr ""
+
+#: elementor/class-upcoming/class.php:350 elementor/post-slider/class.php:355
+#: elementor/routine/class.php:306 elementor/schedule/class.php:195
+#: elementor/trainer-slider/class.php:466
+msgid "Navigation Color"
+msgstr ""
+
+#: vc-modules/class.php:224 vc-modules/post-slider.php:166
+#: vc-modules/product-slider.php:137 vc-modules/trainer.php:315
+#: elementor/post-slider/class.php:197 elementor/product-slider/class.php:162
+#: elementor/trainer-slider/class.php:224
+msgid "Navigation Dots"
+msgstr ""
+
+#: elementor/class-upcoming/class.php:358 elementor/post-slider/class.php:363
+#: elementor/routine/class.php:318 elementor/schedule/class.php:203
+#: elementor/trainer-slider/class.php:475
+msgid "Navigation Hover Background"
+msgstr ""
+
+#: elementor/class-upcoming/class.php:367 elementor/post-slider/class.php:371
+#: elementor/routine/class.php:331 elementor/schedule/class.php:212
+#: elementor/trainer-slider/class.php:484
+msgid "Navigation Hover Color"
+msgstr ""
+
+#: vc-modules/routine.php:156 elementor/routine/class.php:165
+msgid "Navigation Menu Display"
+msgstr ""
+
+#: radius-posts/rt-posts.php:43
+msgid "New"
+msgstr ""
+
+#: radius-posts/rt-posts.php:94
+msgid "New name of"
+msgstr ""
+
+#: elementor/image-carousel/class.php:727
+msgid "Next"
+msgstr ""
+
+#: elementor/testimonial-grid/class.php:150
+#: elementor/testimonial-slider/class.php:329
+#: elementor/trainer-slider/class.php:356
+msgid "Nmae Color"
+msgstr ""
+
+#: elementor/image-carousel/class.php:104
+#: elementor/image-carousel/class.php:162
+#: elementor/image-carousel/class.php:211
+#: elementor/image-carousel/class.php:225
+#: elementor/image-carousel/class.php:243
+#: elementor/image-carousel/class.php:275 elementor/rt-slider/class.php:700
+#: elementor/rt-slider/class.php:714 elementor/rt-slider/class.php:731
+#: elementor/rt-slider/class.php:761
+msgid "No"
+msgstr ""
+
+#: vc-modules/slider.php:143 vc-modules/slider.php:214
+#: elementor/image-carousel/class.php:120
+#: elementor/image-carousel/class.php:133
+#: elementor/image-carousel/class.php:177 elementor/rt-slider/class.php:619
+#: elementor/rt-slider/class.php:784
+msgid "None"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:29 elementor/rt-slider/class.php:943
+#: elementor/rt-slider/class.php:1215 vc-modules/views/bmi-calculator.php:15
+msgid "Normal"
+msgstr ""
+
+#: vc-modules/class.php:152 vc-modules/post-slider.php:102
+#: vc-modules/product-slider.php:78 vc-modules/trainer.php:247
+msgid "Number of columns ( Desktops > 1199px )"
+msgstr ""
+
+#: vc-modules/class.php:162 vc-modules/post-slider.php:112
+#: vc-modules/product-slider.php:87 vc-modules/trainer.php:257
+msgid "Number of columns ( Desktops > 991px )"
+msgstr ""
+
+#: vc-modules/class.php:182 vc-modules/post-slider.php:132
+#: vc-modules/product-slider.php:105 vc-modules/trainer.php:277
+msgid "Number of columns ( Phones < 768px )"
+msgstr ""
+
+#: vc-modules/class.php:196 vc-modules/post-slider.php:142
+#: vc-modules/product-slider.php:114 vc-modules/trainer.php:287
+msgid "Number of columns ( Small Phones < 480px )"
+msgstr ""
+
+#: vc-modules/class.php:172 vc-modules/post-slider.php:122
+#: vc-modules/product-slider.php:96 vc-modules/trainer.php:267
+msgid "Number of columns ( Tablets > 767px )"
+msgstr ""
+
+#: elementor/class-slider/class.php:116 elementor/class-upcoming/class.php:122
+#: elementor/post-slider/class.php:103
+#: elementor/testimonial-slider/class.php:127
+#: elementor/trainer-slider/class.php:130
+msgid "Number of Responsive Columns"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:31 vc-modules/views/bmi-calculator.php:17
+msgid "Obese"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:66 elementor/class-grid/class.php:99
+#: elementor/class-slider/class.php:104 elementor/class-slider/class.php:203
+#: elementor/class-slider/class.php:212 elementor/class-slider/class.php:221
+#: elementor/class-slider/class.php:230 elementor/class-slider/class.php:263
+#: elementor/class-upcoming/class.php:200
+#: elementor/class-upcoming/class.php:209
+#: elementor/class-upcoming/class.php:242 elementor/info-text/class.php:87
+#: elementor/intro/class.php:68 elementor/intro/class.php:100
+#: elementor/post-slider/class.php:181 elementor/post-slider/class.php:190
+#: elementor/post-slider/class.php:199 elementor/post-slider/class.php:208
+#: elementor/post-slider/class.php:241 elementor/product-slider/class.php:146
+#: elementor/product-slider/class.php:155
+#: elementor/product-slider/class.php:164
+#: elementor/product-slider/class.php:173
+#: elementor/product-slider/class.php:206 elementor/routine/class.php:149
+#: elementor/routine/class.php:158 elementor/routine/class.php:167
+#: elementor/schedule/class.php:51 elementor/schedule/class.php:69
+#: elementor/testimonial-slider/class.php:205
+#: elementor/testimonial-slider/class.php:214
+#: elementor/testimonial-slider/class.php:247
+#: elementor/trainer-grid/class.php:81 elementor/trainer-grid/class.php:89
+#: elementor/trainer-grid/class.php:109 elementor/trainer-grid/class.php:120
+#: elementor/trainer-single/class.php:60 elementor/trainer-single/class.php:68
+#: elementor/trainer-single/class.php:76 elementor/trainer-single/class.php:84
+#: elementor/trainer-single/class.php:92 elementor/trainer-slider/class.php:87
+#: elementor/trainer-slider/class.php:95 elementor/trainer-slider/class.php:115
+#: elementor/trainer-slider/class.php:208
+#: elementor/trainer-slider/class.php:217
+#: elementor/trainer-slider/class.php:226
+#: elementor/trainer-slider/class.php:235
+#: elementor/trainer-slider/class.php:268
+msgid "Off"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:65 elementor/class-grid/class.php:98
+#: elementor/class-slider/class.php:103 elementor/class-slider/class.php:202
+#: elementor/class-slider/class.php:211 elementor/class-slider/class.php:220
+#: elementor/class-slider/class.php:229 elementor/class-slider/class.php:262
+#: elementor/class-upcoming/class.php:199
+#: elementor/class-upcoming/class.php:208
+#: elementor/class-upcoming/class.php:241 elementor/info-text/class.php:86
+#: elementor/intro/class.php:67 elementor/intro/class.php:99
+#: elementor/post-slider/class.php:180 elementor/post-slider/class.php:189
+#: elementor/post-slider/class.php:198 elementor/post-slider/class.php:207
+#: elementor/post-slider/class.php:240 elementor/product-slider/class.php:145
+#: elementor/product-slider/class.php:154
+#: elementor/product-slider/class.php:163
+#: elementor/product-slider/class.php:172
+#: elementor/product-slider/class.php:205 elementor/routine/class.php:148
+#: elementor/routine/class.php:157 elementor/routine/class.php:166
+#: elementor/schedule/class.php:50 elementor/schedule/class.php:68
+#: elementor/testimonial-slider/class.php:204
+#: elementor/testimonial-slider/class.php:213
+#: elementor/testimonial-slider/class.php:246
+#: elementor/trainer-grid/class.php:80 elementor/trainer-grid/class.php:88
+#: elementor/trainer-grid/class.php:108 elementor/trainer-grid/class.php:119
+#: elementor/trainer-single/class.php:59 elementor/trainer-single/class.php:67
+#: elementor/trainer-single/class.php:75 elementor/trainer-single/class.php:83
+#: elementor/trainer-single/class.php:91 elementor/trainer-slider/class.php:86
+#: elementor/trainer-slider/class.php:94 elementor/trainer-slider/class.php:114
+#: elementor/trainer-slider/class.php:207
+#: elementor/trainer-slider/class.php:216
+#: elementor/trainer-slider/class.php:225
+#: elementor/trainer-slider/class.php:234
+#: elementor/trainer-slider/class.php:267
+msgid "On"
+msgstr ""
+
+#: vc-modules/pricing-box.php:90
+msgid ""
+"One line per feature. Put BLANK keyword if you want blank line. eg.<br/>Free "
+"Hand<br/>Gym Fitness<br/>BLANK"
+msgstr ""
+
+#: elementor/pricing-box/class.php:65
+msgid ""
+"One line per feature. Put BLANK keyword if you want blank line. eg.<br/>"
+"Investment Plan</br>Education Loan</br>Tax Planning</br>BLANK"
+msgstr ""
+
+#: vc-modules/product-slider.php:8
+msgid "ONLINE STORE"
+msgstr ""
+
+#: post-meta.php:282
+msgid "Only Used in Routine Style 2"
+msgstr ""
+
+#: vc-modules/class.php:103 vc-modules/gallery.php:60
+#: vc-modules/post-grid.php:31 vc-modules/post-list.php:31
+#: vc-modules/post-slider.php:71 vc-modules/testimonial.php:69
+#: vc-modules/trainer.php:146
+msgid "Order By"
+msgstr ""
+
+#: elementor/class-grid/class.php:82 elementor/class-slider/class.php:87
+#: elementor/gallery/class.php:50 elementor/post-grid/class.php:59
+#: elementor/post-list/class.php:59 elementor/post-slider/class.php:76
+#: elementor/testimonial-grid/class.php:77
+#: elementor/testimonial-slider/class.php:106
+#: elementor/trainer-grid/class.php:71 elementor/trainer-slider/class.php:77
+msgid "Order by"
+msgstr ""
+
+#: vc-modules/gallery.php:8
+msgid "OUR GALLERY"
+msgstr ""
+
+#: elementor/image-carousel/class.php:355
+#: elementor/image-carousel/class.php:417 elementor/rt-slider/class.php:1331
+msgid "Outside"
+msgstr ""
+
+#: elementor/rt-slider/class.php:562
+msgid "Overlay"
+msgstr ""
+
+#: elementor/class-grid/class.php:304 elementor/class-slider/class.php:415
+#: elementor/gallery/class.php:174 elementor/product-slider/class.php:298
+#: elementor/trainer-grid/class.php:268 elementor/trainer-slider/class.php:395
+msgid "Overlay Color"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:30 vc-modules/views/bmi-calculator.php:16
+msgid "Overweight"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:330
+msgid "Pagination Background"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:339
+msgid "Pagination Color"
+msgstr ""
+
+#: elementor/class-grid/class.php:97 elementor/class-slider/class.php:102
+#: elementor/trainer-grid/class.php:118
+msgid "Pagination Display"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:348
+msgid "Pagination Hover Background"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:358
+msgid "Pagination Hover Color"
+msgstr ""
+
+#: radius-posts/rt-posts.php:89 radius-posts/rt-posts.php:90
+msgid "Parent"
+msgstr ""
+
+#: elementor/image-carousel/class.php:220 elementor/rt-slider/class.php:709
+msgid "Pause on Hover"
+msgstr ""
+
+#: elementor/image-carousel/class.php:238 elementor/rt-slider/class.php:726
+msgid "Pause on Interaction"
+msgstr ""
+
+#: vc-modules/cta-discount.php:9
+msgid ""
+"PAY NOW AND<br>GET <span class=\"gym-primary-color\">$35</span> DISCOUNT"
+msgstr ""
+
+#: vc-modules/skill.php:31 elementor/skills/class.php:42
+#: elementor/skills/class.php:69
+msgid "Percentage"
+msgstr ""
+
+#: elementor/skills/class.php:90
+msgid "Percentage Color"
+msgstr ""
+
+#: post-meta.php:232 elementor/trainer-single/view.php:66
+#: vc-modules/views/trainer-single.php:62
+msgid "Phone"
+msgstr ""
+
+#: widgets/address-widget.php:69
+msgid "Phone Number"
+msgstr ""
+
+#: elementor/class-slider/class.php:166 elementor/class-upcoming/class.php:163
+#: elementor/post-slider/class.php:144
+#: elementor/testimonial-slider/class.php:168
+#: elementor/trainer-slider/class.php:171
+msgid "Phones: < 768px"
+msgstr ""
+
+#: post-meta.php:180 vc-modules/intro.php:121
+msgid "Pinterest"
+msgstr ""
+
+#: widgets/about-widget.php:110
+msgid "Pinterest URL"
+msgstr ""
+
+#: elementor/image-carousel/class.php:350
+#: elementor/image-carousel/class.php:413 elementor/rt-slider/class.php:1327
+msgid "Position"
+msgstr ""
+
+#: elementor/post-grid/class.php:18
+msgid "Post Grid"
+msgstr ""
+
+#: elementor/post-list/class.php:18
+msgid "Post List"
+msgstr ""
+
+#: elementor/post-slider/class.php:18
+msgid "Post Slider"
+msgstr ""
+
+#: elementor/post-grid/class.php:80 elementor/post-list/class.php:80
+#: elementor/post-slider/class.php:269
+msgid "Post Title"
+msgstr ""
+
+#: post-meta.php:55
+msgid "Preloader"
+msgstr ""
+
+#: elementor/image-carousel/class.php:723
+msgid "Previous"
+msgstr ""
+
+#: vc-modules/pricing-box.php:69 elementor/pricing-box/class.php:49
+#: elementor/product-slider/class.php:241
+msgid "Price"
+msgstr ""
+
+#: elementor/pricing-box/class.php:224
+msgid "Price Background"
+msgstr ""
+
+#: elementor/pricing-box/class.php:231 elementor/product-slider/class.php:290
+msgid "Price Color"
+msgstr ""
+
+#: elementor/pricing-box/class.php:106
+msgid "Price Style"
+msgstr ""
+
+#: elementor/pricing-box/class.php:18
+msgid "Pricing Box"
+msgstr ""
+
+#: elementor/product-slider/class.php:18
+msgid "Product Slider"
+msgstr ""
+
+#: elementor/product-slider/class.php:234
+msgid "Product Title"
+msgstr ""
+
+#: post-meta.php:264
+msgid "Put your social links here"
+msgstr ""
+
+#. Author of the plugin
+msgid "Radius Theme"
+msgstr ""
+
+#: elementor/init.php:88
+msgid "RadiusTheme Elements"
+msgstr ""
+
+#: elementor/product-slider/class.php:282
+msgid "Rating Color"
+msgstr ""
+
+#: elementor/rt-slider/class.php:1060
+msgid "Read More Padding"
+msgstr ""
+
+#: elementor/rt-slider/class.php:577 elementor/rt-slider/class.php:581
+msgid "Ready to change your physique, but can't work out in the gym?"
+msgstr ""
+
+#: vc-modules/cta.php:10
+msgid "Ready To Change Your Physique, But Can't Work Out?"
+msgstr ""
+
+#: elementor/info-text/class.php:120
+msgid ""
+"Recommended image size is 160x160 px.<br/>You can upload SVG format as well, "
+"to get SVG images click here: <a target=\"_blank\" href=\"https://www."
+"flaticon.com/\">flaticon.com</a>"
+msgstr ""
+
+#: elementor/about-fitness/class.php:33
+msgid "Recommended image size is 542x429 px."
+msgstr ""
+
+#: radius-posts/rt-fields.php:218
+msgid "Remove Image"
+msgstr ""
+
+#: vc-modules/class.php:145 vc-modules/class.php:156 vc-modules/class.php:166
+#: vc-modules/class.php:176 vc-modules/class.php:190 vc-modules/class.php:204
+#: vc-modules/post-slider.php:106 vc-modules/post-slider.php:116
+#: vc-modules/post-slider.php:126 vc-modules/post-slider.php:136
+#: vc-modules/post-slider.php:146 vc-modules/trainer.php:251
+#: vc-modules/trainer.php:261 vc-modules/trainer.php:271
+#: vc-modules/trainer.php:281 vc-modules/trainer.php:295
+msgid "Responsive Columns"
+msgstr ""
+
+#: elementor/base.php:128 vc-modules/button.php:41
+#: elementor/button/class.php:63 elementor/image-carousel/class.php:317
+#: elementor/image-carousel/class.php:587 elementor/info-text/class.php:72
+#: elementor/rt-slider/class.php:547
+msgid "Right"
+msgstr ""
+
+#: post-meta.php:23
+msgid "Right Sidebar"
+msgstr ""
+
+#: elementor/info-text/class.php:129
+msgid "Rounded"
+msgstr ""
+
+#: elementor/routine/class.php:19
+msgid "Routine"
+msgstr ""
+
+#: elementor/schedule/class.php:127
+msgid "Row Background"
+msgstr ""
+
+#: elementor/routine/class.php:190
+msgid "Row Heading"
+msgstr ""
+
+#: widgets/about-widget.php:122
+msgid "Rss Feed URL"
+msgstr ""
+
+#: elementor/rt-slider/class.php:29 elementor/rt-slider/class.php:47
+msgid "RT Slider"
+msgstr ""
+
+#: gymedge-core.php:150
+msgid "Sat"
+msgstr ""
+
+#: gymedge-core.php:134 post-meta.php:314
+msgid "Saturday"
+msgstr ""
+
+#: post-meta.php:277 elementor/schedule/class.php:17
+msgid "Schedule"
+msgstr ""
+
+#: vc-modules/schedule.php:23 elementor/schedule/class.php:39
+msgid "Schedule By"
+msgstr ""
+
+#: radius-posts/rt-posts.php:46 radius-posts/rt-posts.php:87
+msgid "Search"
+msgstr ""
+
+#: elementor/class-slider/class.php:66 elementor/class-slider/class.php:283
+#: elementor/class-upcoming/class.php:102
+#: elementor/class-upcoming/class.php:262 elementor/post-slider/class.php:62
+#: elementor/post-slider/class.php:261 elementor/product-slider/class.php:226
+#: elementor/title/class.php:17 elementor/trainer-slider/class.php:288
+msgid "Section Title"
+msgstr ""
+
+#: elementor/class-upcoming/class.php:294
+msgid "Section Title Background"
+msgstr ""
+
+#: elementor/class-slider/class.php:328 elementor/class-upcoming/class.php:302
+#: elementor/post-slider/class.php:298 elementor/product-slider/class.php:257
+#: elementor/trainer-slider/class.php:338
+msgid "Section Title Color"
+msgstr ""
+
+#: post-meta.php:308
+msgid "Select a Weekday"
+msgstr ""
+
+#: vc-modules/counter.php:36 vc-modules/info-text.php:62
+msgid "Select icon from library."
+msgstr ""
+
+#: vc-modules/trainer.php:162 elementor/trainer-single/class.php:50
+msgid "Select Trainer"
+msgstr ""
+
+#: vc-modules/info-text.php:176 elementor/info-text/class.php:85
+msgid "Separator"
+msgstr ""
+
+#: elementor/info-text/class.php:308
+msgid "Seperator Color"
+msgstr ""
+
+#: elementor/info-text/class.php:199 elementor/info-text/class.php:211
+msgid "Seperator Margin"
+msgstr ""
+
+#: vc-modules/class.php:280 vc-modules/post-slider.php:222
+#: vc-modules/product-slider.php:193 vc-modules/testimonial.php:173
+#: vc-modules/trainer.php:371 elementor/class-slider/class.php:247
+#: elementor/class-upcoming/class.php:226 elementor/post-slider/class.php:225
+#: elementor/product-slider/class.php:190
+#: elementor/testimonial-slider/class.php:231
+#: elementor/trainer-slider/class.php:252
+msgid ""
+"Set any value for example 5 seconds to play it in every 5 seconds. Default: "
+"5 Seconds"
+msgstr ""
+
+#: elementor/image-carousel/class.php:86
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: elementor/schedule/class.php:53
+msgid "Show or Hide Background. Default: Off"
+msgstr ""
+
+#: elementor/intro/class.php:70 elementor/intro/class.php:102
+#: elementor/schedule/class.php:71
+msgid "Show or Hide Button. Default: On"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:68
+msgid "Show or Hide Calculation Units. Default: On"
+msgstr ""
+
+#: vc-modules/routine.php:166 elementor/routine/class.php:169
+msgid "Show or Hide Navigation Menu"
+msgstr ""
+
+#: vc-modules/info-text.php:182
+msgid "Show or hide Separator. Default: Enable"
+msgstr ""
+
+#: elementor/info-text/class.php:89
+msgid "Show or Hide Separator. Default: On"
+msgstr ""
+
+#: vc-modules/trainer.php:192
+msgid "Show or hide trainer description. Default: Enabled"
+msgstr ""
+
+#: vc-modules/trainer.php:180
+msgid "Show or hide trainer designation. Default: Enabled"
+msgstr ""
+
+#: vc-modules/trainer.php:224
+msgid "Show or hide trainer information. Default: Enabled"
+msgstr ""
+
+#: vc-modules/routine.php:150 elementor/routine/class.php:160
+msgid "Show or Hide Trainer Name"
+msgstr ""
+
+#: vc-modules/trainer.php:208
+msgid "Show or hide trainer skills. Default: Enabled"
+msgstr ""
+
+#: vc-modules/trainer.php:240
+msgid "Show or hide trainer social links. Default: Enabled"
+msgstr ""
+
+#: vc-modules/about.php:10 vc-modules/cta-signup.php:10
+msgid "SIGN UP"
+msgstr ""
+
+#: vc-modules/trainer.php:59
+msgid "Single"
+msgstr ""
+
+#: elementor/image-carousel/class.php:367
+#: elementor/image-carousel/class.php:430 elementor/rt-slider/class.php:1344
+msgid "Size"
+msgstr ""
+
+#: elementor/trainer-single/class.php:190
+msgid "Skill Bar Color"
+msgstr ""
+
+#: vc-modules/trainer.php:198
+msgid "Skill display"
+msgstr ""
+
+#: post-meta.php:245
+msgid "Skill Name"
+msgstr ""
+
+#: post-meta.php:250
+msgid "Skill Percentage (%)"
+msgstr ""
+
+#: elementor/trainer-single/class.php:134
+msgid "Skill Title"
+msgstr ""
+
+#: elementor/trainer-single/class.php:183
+msgid "Skill Title Color"
+msgstr ""
+
+#: elementor/skills/class.php:17
+msgid "Skills"
+msgstr ""
+
+#: elementor/trainer-single/class.php:74
+msgid "Skills Display"
+msgstr ""
+
+#: post-meta.php:170
+msgid "Skype"
+msgstr ""
+
+#: vc-modules/slider.php:160 elementor/image-carousel/class.php:288
+#: elementor/rt-slider/class.php:670
+msgid "Slide"
+msgstr ""
+
+#: vc-modules/class.php:294 vc-modules/post-slider.php:236
+#: vc-modules/product-slider.php:207 vc-modules/testimonial.php:187
+#: vc-modules/trainer.php:385 elementor/class-slider/class.php:255
+#: elementor/class-upcoming/class.php:234 elementor/post-slider/class.php:233
+#: elementor/product-slider/class.php:198
+#: elementor/testimonial-slider/class.php:239
+#: elementor/trainer-slider/class.php:260
+msgid "Slide speed in milliseconds. Default: 200"
+msgstr ""
+
+#: vc-modules/class-upcoming.php:110 vc-modules/class.php:43
+#: vc-modules/trainer.php:57
+msgid "Slider"
+msgstr ""
+
+#: vc-modules/slider.php:189
+msgid "Slider BG Animation"
+msgstr ""
+
+#: elementor/class-slider/class.php:219
+msgid "Slider Dot"
+msgstr ""
+
+#: vc-modules/slider.php:149 elementor/rt-slider/class.php:627
+msgid "Slider Height"
+msgstr ""
+
+#: vc-modules/slider.php:21 elementor/rt-slider/class.php:56
+msgid "Slider Image"
+msgstr ""
+
+#: elementor/rt-slider/class.php:571
+msgid "Slider Items"
+msgstr ""
+
+#: vc-modules/slider.php:39 elementor/rt-slider/class.php:89
+msgid "Slider Link"
+msgstr ""
+
+#: vc-modules/class.php:218 vc-modules/class.php:231 vc-modules/class.php:244
+#: vc-modules/class.php:261 vc-modules/class.php:281 vc-modules/class.php:295
+#: vc-modules/class.php:308 vc-modules/post-slider.php:160
+#: vc-modules/post-slider.php:173 vc-modules/post-slider.php:186
+#: vc-modules/post-slider.php:203 vc-modules/post-slider.php:223
+#: vc-modules/post-slider.php:237 vc-modules/post-slider.php:250
+#: vc-modules/product-slider.php:131 vc-modules/product-slider.php:144
+#: vc-modules/product-slider.php:157 vc-modules/product-slider.php:174
+#: vc-modules/product-slider.php:194 vc-modules/product-slider.php:208
+#: vc-modules/product-slider.php:221 vc-modules/testimonial.php:137
+#: vc-modules/testimonial.php:154 vc-modules/testimonial.php:174
+#: vc-modules/testimonial.php:188 vc-modules/testimonial.php:201
+#: vc-modules/trainer.php:309 vc-modules/trainer.php:322
+#: vc-modules/trainer.php:335 vc-modules/trainer.php:352
+#: vc-modules/trainer.php:372 vc-modules/trainer.php:386
+#: vc-modules/trainer.php:399 elementor/class-slider/class.php:196
+#: elementor/class-upcoming/class.php:193 elementor/post-slider/class.php:174
+#: elementor/product-slider/class.php:139
+#: elementor/testimonial-slider/class.php:198
+#: elementor/trainer-slider/class.php:201
+msgid "Slider Options"
+msgstr ""
+
+#: vc-modules/slider.php:145 vc-modules/slider.php:152
+#: vc-modules/slider.php:163 vc-modules/slider.php:174
+#: vc-modules/slider.php:185 vc-modules/slider.php:196
+#: vc-modules/slider.php:207 vc-modules/slider.php:217
+#: vc-modules/slider.php:225 vc-modules/slider.php:232
+msgid "Slider options"
+msgstr ""
+
+#: elementor/rt-slider/class.php:654
+msgid "Slider Padding"
+msgstr ""
+
+#: vc-modules/class.php:52 vc-modules/post-slider.php:39
+#: vc-modules/product-slider.php:38
+msgid "Slider Style"
+msgstr ""
+
+#: vc-modules/slider.php:230
+msgid "Slider Theme Color"
+msgstr ""
+
+#: elementor/image-carousel/class.php:84
+msgid "Slides to Scroll"
+msgstr ""
+
+#: elementor/image-carousel/class.php:72
+msgid "Slides to Show"
+msgstr ""
+
+#: elementor/class-slider/class.php:178 elementor/class-upcoming/class.php:175
+#: elementor/post-slider/class.php:156 elementor/product-slider/class.php:126
+#: elementor/testimonial-slider/class.php:180
+#: elementor/trainer-slider/class.php:183
+msgid "Small Phones: < 480px"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:276 elementor/trainer-single/class.php:214
+#: elementor/trainer-slider/class.php:403
+msgid "Social Icon Background"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:312 elementor/trainer-single/class.php:250
+#: elementor/trainer-slider/class.php:439
+msgid "Social Icon Border Color"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:294 elementor/trainer-single/class.php:232
+#: elementor/trainer-slider/class.php:421
+msgid "Social Icon Color"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:285 elementor/trainer-single/class.php:223
+#: elementor/trainer-slider/class.php:412
+msgid "Social Icon Hover Background"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:321 elementor/trainer-single/class.php:259
+#: elementor/trainer-slider/class.php:448
+msgid "Social Icon Hover Border Color"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:303 elementor/trainer-single/class.php:241
+#: elementor/trainer-slider/class.php:430
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: vc-modules/trainer.php:230
+msgid "Social Links display"
+msgstr ""
+
+#: elementor/intro/class.php:93
+msgid "Social Profile"
+msgstr ""
+
+#: elementor/intro/class.php:98 elementor/trainer-grid/class.php:107
+#: elementor/trainer-single/class.php:90 elementor/trainer-slider/class.php:113
+msgid "Social Profile Display"
+msgstr ""
+
+#: post-meta.php:262 vc-modules/intro.php:83 vc-modules/intro.php:91
+#: vc-modules/intro.php:99 vc-modules/intro.php:107 vc-modules/intro.php:115
+#: vc-modules/intro.php:123 vc-modules/intro.php:131 vc-modules/intro.php:139
+msgid "Socials"
+msgstr ""
+
+#: elementor/class-grid/class.php:89 elementor/class-slider/class.php:94
+#: elementor/testimonial-grid/class.php:84
+#: elementor/testimonial-slider/class.php:113
+msgid "Sort by"
+msgstr ""
+
+#: vc-modules/info-text.php:188 elementor/image-carousel/class.php:502
+msgid "Spacing"
+msgstr ""
+
+#: vc-modules/info-text.php:191
+msgid "Spacing between title and content in px. Default: 30"
+msgstr ""
+
+#: post-meta.php:195
+msgid "Stackoverflow"
+msgstr ""
+
+#: vc-modules/pricing-box.php:8
+msgid "STANDARD"
+msgstr ""
+
+#: elementor/image-carousel/class.php:478
+msgid "Start"
+msgstr ""
+
+#: post-meta.php:319
+msgid "Start Time"
+msgstr ""
+
+#: vc-modules/gallery.php:54
+msgid ""
+"Start typing category names to select. If not selected all categories will "
+"be displayed"
+msgstr ""
+
+#: vc-modules/class.php:260 vc-modules/post-slider.php:202
+#: vc-modules/product-slider.php:173 vc-modules/testimonial.php:153
+#: vc-modules/trainer.php:351
+msgid "Stop autoplay on mouse hover. Default: Enable"
+msgstr ""
+
+#: elementor/class-slider/class.php:232 elementor/class-upcoming/class.php:211
+#: elementor/post-slider/class.php:210 elementor/product-slider/class.php:175
+#: elementor/testimonial-slider/class.php:216
+#: elementor/trainer-slider/class.php:237
+msgid "Stop autoplay on mouse hover. Default: On"
+msgstr ""
+
+#: vc-modules/class.php:250 vc-modules/post-slider.php:192
+#: vc-modules/product-slider.php:163 vc-modules/testimonial.php:143
+#: vc-modules/trainer.php:341 elementor/class-slider/class.php:228
+#: elementor/class-upcoming/class.php:207 elementor/post-slider/class.php:206
+#: elementor/product-slider/class.php:171
+#: elementor/testimonial-slider/class.php:212
+#: elementor/trainer-slider/class.php:233
+msgid "Stop on Hover"
+msgstr ""
+
+#: vc-modules/about.php:21 vc-modules/counter.php:20
+#: vc-modules/cta-discount.php:21 vc-modules/gallery.php:34
+#: vc-modules/pricing-box.php:22 vc-modules/routine.php:98
+#: vc-modules/testimonial.php:33 vc-modules/title.php:19
+#: vc-modules/trainer.php:66 elementor/about-fitness/class.php:73
+#: elementor/bmi-calculator/class.php:123 elementor/class-grid/class.php:57
+#: elementor/class-slider/class.php:56 elementor/counter/class.php:34
+#: elementor/cta/class.php:34 elementor/gallery/class.php:40
+#: elementor/info-text/class.php:32 elementor/intro/class.php:32
+#: elementor/intro/class.php:249 elementor/post-slider/class.php:51
+#: elementor/pricing-box/class.php:33 elementor/product-slider/class.php:56
+#: elementor/routine/class.php:115 elementor/testimonial-slider/class.php:56
+#: elementor/title/class.php:32 elementor/title/class.php:149
+#: elementor/trainer-grid/class.php:52 elementor/trainer-slider/class.php:51
+msgid "Style"
+msgstr ""
+
+#: post-meta.php:48 vc-modules/about.php:24 vc-modules/class.php:55
+#: vc-modules/class.php:70 vc-modules/counter.php:23
+#: vc-modules/cta-discount.php:24 vc-modules/gallery.php:37
+#: vc-modules/post-slider.php:42 vc-modules/pricing-box.php:25
+#: vc-modules/product-slider.php:41 vc-modules/routine.php:101
+#: vc-modules/testimonial.php:36 vc-modules/title.php:22
+#: vc-modules/trainer.php:69 elementor/class-grid/class.php:60
+#: elementor/class-slider/class.php:59 elementor/counter/class.php:36
+#: elementor/gallery/class.php:43 elementor/info-text/class.php:34
+#: elementor/post-slider/class.php:54 elementor/pricing-box/class.php:36
+#: elementor/product-slider/class.php:58 elementor/routine/class.php:117
+#: elementor/testimonial-slider/class.php:59 elementor/title/class.php:34
+#: elementor/trainer-grid/class.php:55 elementor/trainer-slider/class.php:54
+msgid "Style 1"
+msgstr ""
+
+#: post-meta.php:49 vc-modules/class.php:56 vc-modules/class.php:71
+#: vc-modules/counter.php:24 vc-modules/cta-discount.php:25
+#: vc-modules/gallery.php:38 vc-modules/post-slider.php:43
+#: vc-modules/pricing-box.php:26 vc-modules/product-slider.php:42
+#: vc-modules/routine.php:102 vc-modules/testimonial.php:37
+#: vc-modules/title.php:23 vc-modules/trainer.php:70
+#: elementor/class-grid/class.php:61 elementor/class-slider/class.php:60
+#: elementor/counter/class.php:37 elementor/gallery/class.php:44
+#: elementor/info-text/class.php:35 elementor/post-slider/class.php:55
+#: elementor/pricing-box/class.php:37 elementor/product-slider/class.php:59
+#: elementor/routine/class.php:118 elementor/testimonial-slider/class.php:60
+#: elementor/title/class.php:35 elementor/trainer-grid/class.php:56
+#: elementor/trainer-slider/class.php:55
+msgid "Style 2"
+msgstr ""
+
+#: vc-modules/about.php:25
+msgid "Style 2 (Requires Dark Background)"
+msgstr ""
+
+#: post-meta.php:50 vc-modules/post-slider.php:44 vc-modules/testimonial.php:38
+#: vc-modules/trainer.php:71 elementor/class-grid/class.php:62
+#: elementor/info-text/class.php:36 elementor/post-slider/class.php:56
+#: elementor/testimonial-slider/class.php:61
+#: elementor/trainer-grid/class.php:57 elementor/trainer-slider/class.php:56
+msgid "Style 3"
+msgstr ""
+
+#: vc-modules/about.php:26
+msgid "Style 3 (Requires Dark Background)"
+msgstr ""
+
+#: vc-modules/trainer.php:72 elementor/trainer-grid/class.php:58
+#: elementor/trainer-slider/class.php:57
+msgid "Style 4"
+msgstr ""
+
+#: vc-modules/slider.php:33
+msgid "Sub Title"
+msgstr ""
+
+#: vc-modules/slider.php:75 vc-modules/slider.php:104
+msgid "Sub Title Animation"
+msgstr ""
+
+#: elementor/rt-slider/class.php:882
+msgid "Sub Title Color"
+msgstr ""
+
+#: elementor/rt-slider/class.php:371
+msgid "Sub Title Paralax Delay"
+msgstr ""
+
+#: elementor/rt-slider/class.php:271
+msgid "Sub Title Paralax X Axix"
+msgstr ""
+
+#: elementor/rt-slider/class.php:865
+msgid "Sub Title Settings"
+msgstr ""
+
+#: vc-modules/counter.php:9
+msgid "Subscribers"
+msgstr ""
+
+#: vc-modules/about.php:41 vc-modules/bmi-calculator.php:41
+#: vc-modules/class-upcoming.php:97 vc-modules/counter.php:85
+#: vc-modules/cta-discount.php:40 vc-modules/cta-signup.php:30
+#: vc-modules/cta.php:43 vc-modules/testimonial.php:108 vc-modules/title.php:38
+#: elementor/counter/class.php:49 elementor/counter/class.php:147
+#: elementor/cta/class.php:50 elementor/cta/class.php:91
+#: elementor/info-text/class.php:253 elementor/rt-slider/class.php:78
+#: elementor/testimonial-slider/class.php:85
+#: elementor/testimonial-slider/class.php:275 elementor/title/class.php:48
+#: elementor/title/class.php:139
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/rt-slider/class.php:259
+msgid "Subtitle Animation"
+msgstr ""
+
+#: elementor/counter/class.php:171 elementor/cta/class.php:127
+#: elementor/info-text/class.php:314 elementor/testimonial-slider/class.php:322
+#: elementor/title/class.php:166
+msgid "Subtitle Color"
+msgstr ""
+
+#: vc-modules/title.php:52
+msgid "Subtitle color"
+msgstr ""
+
+#: vc-modules/title.php:68
+msgid "Subtitle font size"
+msgstr ""
+
+#: elementor/title/class.php:112
+msgid "Subtitle Margin"
+msgstr ""
+
+#: vc-modules/slider.php:82
+msgid "Subtitle X Axix"
+msgstr ""
+
+#: vc-modules/slider.php:88
+msgid "Subtitle Y Axix"
+msgstr ""
+
+#: gymedge-core.php:151
+msgid "Sun"
+msgstr ""
+
+#: gymedge-core.php:135 post-meta.php:315
+msgid "Sunday"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:159
+msgid "Table Background"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:168
+msgid "Table Border Color"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:113
+msgid "Table Data"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:182
+msgid "Table Data Color"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:106
+msgid "Table Heading"
+msgstr ""
+
+#: elementor/bmi-calculator/class.php:174
+msgid "Table Heading Color"
+msgstr ""
+
+#: elementor/class-slider/class.php:154 elementor/class-upcoming/class.php:151
+#: elementor/post-slider/class.php:132
+#: elementor/testimonial-slider/class.php:156
+#: elementor/trainer-slider/class.php:159
+msgid "Tablets: > 767px"
+msgstr ""
+
+#: post-types.php:21
+msgid "Testimonial"
+msgstr ""
+
+#: post-types.php:51
+msgid "Testimonial Categories"
+msgstr ""
+
+#: post-types.php:50
+msgid "Testimonial Category"
+msgstr ""
+
+#: elementor/testimonial-grid/class.php:18
+msgid "Testimonial Grid"
+msgstr ""
+
+#: post-meta.php:334
+msgid "Testimonial Info"
+msgstr ""
+
+#: elementor/testimonial-slider/class.php:18
+msgid "Testimonial Slider"
+msgstr ""
+
+#: post-types.php:22
+msgid "Testimonials"
+msgstr ""
+
+#: vc-modules/button.php:48 vc-modules/testimonial.php:81
+#: elementor/image-carousel/class.php:605
+msgid "Text Color"
+msgstr ""
+
+#: vc-modules/button.php:56
+msgid "Text Hover Color"
+msgstr ""
+
+#: vc-modules/bmi-calculator.php:21 vc-modules/cta.php:22
+#: vc-modules/experience.php:18 vc-modules/intro.php:22
+#: vc-modules/routine.php:109 vc-modules/testimonial.php:46
+#: elementor/bmi-calculator/class.php:32 elementor/routine/class.php:125
+#: elementor/testimonial-slider/class.php:67
+msgid "Theme"
+msgstr ""
+
+#: gymedge-core.php:148
+msgid "Thu"
+msgstr ""
+
+#: gymedge-core.php:132 post-meta.php:312
+msgid "Thursday"
+msgstr ""
+
+#: elementor/routine/view-2.php:85 vc-modules/views/routine-2.php:55
+msgid "TIME"
+msgstr ""
+
+#: elementor/class-grid/class.php:173 elementor/class-slider/class.php:300
+#: elementor/class-upcoming/class.php:276 elementor/routine/class.php:211
+#: elementor/schedule/class.php:96
+msgid "Time"
+msgstr ""
+
+#: elementor/class-grid/class.php:259 elementor/class-slider/class.php:393
+msgid "Time Background"
+msgstr ""
+
+#: elementor/class-grid/class.php:270 elementor/class-slider/class.php:404
+#: elementor/class-upcoming/class.php:326 elementor/routine/class.php:277
+#: elementor/schedule/class.php:141
+msgid "Time Color"
+msgstr ""
+
+#: elementor/routine/class.php:263
+msgid "Time Heading Color"
+msgstr ""
+
+#: elementor/class-upcoming/class.php:334
+msgid "Time Icon Color"
+msgstr ""
+
+#: vc-modules/about-fitness.php:23 vc-modules/about.php:33
+#: vc-modules/bmi-calculator.php:32 vc-modules/class-upcoming.php:88
+#: vc-modules/class.php:82 vc-modules/class.php:107 vc-modules/counter.php:77
+#: vc-modules/cta-discount.php:32 vc-modules/cta-signup.php:21
+#: vc-modules/cta.php:34 vc-modules/experience.php:35 vc-modules/gallery.php:64
+#: vc-modules/gallery.php:72 vc-modules/info-text.php:133
+#: vc-modules/intro.php:41 vc-modules/post-grid.php:35
+#: vc-modules/post-list.php:35 vc-modules/post-slider.php:51
+#: vc-modules/post-slider.php:75 vc-modules/pricing-box.php:33
+#: vc-modules/pricing-box.php:45 vc-modules/product-slider.php:49
+#: vc-modules/skill.php:24 vc-modules/slider.php:26
+#: vc-modules/testimonial.php:73 vc-modules/testimonial.php:96
+#: vc-modules/title.php:30 vc-modules/trainer.php:83 vc-modules/trainer.php:150
+#: widgets/about-widget.php:86 widgets/address-widget.php:61
+#: elementor/about-fitness/class.php:38 elementor/about-fitness/class.php:56
+#: elementor/bmi-calculator/class.php:42 elementor/bmi-calculator/class.php:92
+#: elementor/class-grid/class.php:33 elementor/class-grid/class.php:166
+#: elementor/class-slider/class.php:39 elementor/class-slider/class.php:293
+#: elementor/counter/class.php:43 elementor/counter/class.php:140
+#: elementor/cta/class.php:44 elementor/cta/class.php:84
+#: elementor/experiences/class.php:37 elementor/experiences/class.php:62
+#: elementor/gallery/class.php:28 elementor/gallery/class.php:57
+#: elementor/gallery/class.php:86 elementor/image-carousel/class.php:178
+#: elementor/info-text/class.php:43 elementor/info-text/class.php:246
+#: elementor/intro/class.php:48 elementor/intro/class.php:218
+#: elementor/post-grid/class.php:33 elementor/post-list/class.php:33
+#: elementor/post-slider/class.php:39 elementor/pricing-box/class.php:43
+#: elementor/pricing-box/class.php:99 elementor/product-slider/class.php:66
+#: elementor/routine/class.php:204 elementor/rt-slider/class.php:67
+#: elementor/schedule/class.php:89 elementor/skills/class.php:37
+#: elementor/skills/class.php:62 elementor/testimonial-grid/class.php:33
+#: elementor/testimonial-grid/class.php:57
+#: elementor/testimonial-grid/class.php:105
+#: elementor/testimonial-slider/class.php:39
+#: elementor/testimonial-slider/class.php:78
+#: elementor/testimonial-slider/class.php:267 elementor/title/class.php:42
+#: elementor/title/class.php:132 elementor/trainer-grid/class.php:33
+#: elementor/trainer-slider/class.php:39 elementor/trainer-slider/class.php:63
+msgid "Title"
+msgstr ""
+
+#: vc-modules/slider.php:46 elementor/rt-slider/class.php:123
+msgid "Title Animation"
+msgstr ""
+
+#: elementor/class-grid/class.php:204
+msgid "Title Background"
+msgstr ""
+
+#: elementor/about-fitness/class.php:78 elementor/bmi-calculator/class.php:128
+#: elementor/class-grid/class.php:215 elementor/class-slider/class.php:347
+#: elementor/counter/class.php:163 elementor/cta/class.php:121
+#: elementor/experiences/class.php:84 elementor/gallery/class.php:112
+#: elementor/info-text/class.php:290 elementor/intro/class.php:260
+#: elementor/post-grid/class.php:103 elementor/post-list/class.php:103
+#: elementor/post-slider/class.php:307 elementor/pricing-box/class.php:170
+#: elementor/product-slider/class.php:266 elementor/routine/class.php:269
+#: elementor/rt-slider/class.php:814 elementor/schedule/class.php:133
+#: elementor/skills/class.php:84 elementor/testimonial-grid/class.php:144
+#: elementor/testimonial-slider/class.php:315 elementor/title/class.php:154
+msgid "Title Color"
+msgstr ""
+
+#: vc-modules/title.php:45
+msgid "Title color"
+msgstr ""
+
+#: elementor/rt-slider/class.php:826
+msgid "Title Color - 2"
+msgstr ""
+
+#: vc-modules/info-text.php:141
+msgid "Title Font Size"
+msgstr ""
+
+#: vc-modules/title.php:60
+msgid "Title font size"
+msgstr ""
+
+#: vc-modules/info-text.php:144
+msgid ""
+"Title font size in px. If not defined, default h3 font size will be used"
+msgstr ""
+
+#: elementor/class-grid/class.php:224
+msgid "Title Hover Background"
+msgstr ""
+
+#: elementor/class-grid/class.php:236 elementor/class-slider/class.php:363
+#: elementor/info-text/class.php:299 elementor/post-grid/class.php:111
+#: elementor/post-list/class.php:111 elementor/post-slider/class.php:315
+#: elementor/product-slider/class.php:274
+msgid "Title Hover Color"
+msgstr ""
+
+#: elementor/intro/class.php:272 elementor/title/class.php:160
+msgid "Title Line Color"
+msgstr ""
+
+#: elementor/info-text/class.php:175 elementor/intro/class.php:176
+#: elementor/title/class.php:88
+msgid "Title Line Width"
+msgstr ""
+
+#: elementor/info-text/class.php:49
+msgid "Title Link (Optional)"
+msgstr ""
+
+#: elementor/rt-slider/class.php:235
+msgid "Title Paralax Delay"
+msgstr ""
+
+#: elementor/rt-slider/class.php:215 elementor/rt-slider/class.php:351
+#: elementor/rt-slider/class.php:486
+msgid "Title Paralax Duration"
+msgstr ""
+
+#: elementor/rt-slider/class.php:195 elementor/rt-slider/class.php:331
+#: elementor/rt-slider/class.php:466
+msgid "Title Paralax Opcaity"
+msgstr ""
+
+#: elementor/rt-slider/class.php:175 elementor/rt-slider/class.php:311
+#: elementor/rt-slider/class.php:446
+msgid "Title Paralax Scale"
+msgstr ""
+
+#: elementor/rt-slider/class.php:135 elementor/rt-slider/class.php:406
+msgid "Title Paralax X Axix"
+msgstr ""
+
+#: elementor/rt-slider/class.php:155 elementor/rt-slider/class.php:291
+#: elementor/rt-slider/class.php:426
+msgid "Title Paralax Y Axix"
+msgstr ""
+
+#: elementor/rt-slider/class.php:797
+msgid "Title Settings"
+msgstr ""
+
+#: vc-modules/info-text.php:168
+msgid "Title URL"
+msgstr ""
+
+#: vc-modules/slider.php:53
+msgid "Title X Axix"
+msgstr ""
+
+#: vc-modules/slider.php:59
+msgid "Title Y Axix"
+msgstr ""
+
+#: post-meta.php:28
+msgid "Top Bar"
+msgstr ""
+
+#: vc-modules/class.php:115 vc-modules/product-slider.php:69
+#: vc-modules/trainer.php:120 elementor/class-grid/class.php:68
+#: elementor/class-slider/class.php:73 elementor/class-upcoming/class.php:108
+#: elementor/post-grid/class.php:45 elementor/post-list/class.php:45
+#: elementor/product-slider/class.php:79
+#: elementor/testimonial-grid/class.php:63
+#: elementor/testimonial-slider/class.php:92
+msgid "Total number of items"
+msgstr ""
+
+#: vc-modules/post-slider.php:83 elementor/post-slider/class.php:83
+msgid "Total number of posts"
+msgstr ""
+
+#: vc-modules/testimonial.php:120
+msgid "Total number of testimonials"
+msgstr ""
+
+#: post-meta.php:299 post-types.php:7 elementor/routine/class.php:218
+#: elementor/schedule/class.php:103
+msgid "Trainer"
+msgstr ""
+
+#: post-types.php:39
+msgid "Trainer Categories"
+msgstr ""
+
+#: post-types.php:38
+msgid "Trainer Category"
+msgstr ""
+
+#: elementor/routine/class.php:285 elementor/schedule/class.php:149
+msgid "Trainer Color"
+msgstr ""
+
+#: vc-modules/routine.php:144 elementor/routine/class.php:156
+msgid "Trainer Display"
+msgstr ""
+
+#: elementor/trainer-grid/class.php:18
+msgid "Trainer Grid"
+msgstr ""
+
+#: post-meta.php:205
+msgid "Trainer Info"
+msgstr ""
+
+#: elementor/trainer-single/class.php:18
+msgid "Trainer Single"
+msgstr ""
+
+#: post-meta.php:238
+msgid "Trainer Skills"
+msgstr ""
+
+#: elementor/trainer-slider/class.php:18
+msgid "Trainer Slider"
+msgstr ""
+
+#: post-meta.php:259
+msgid "Trainer Socials"
+msgstr ""
+
+#: post-types.php:8
+msgid "Trainers"
+msgstr ""
+
+#: vc-modules/slider.php:35 elementor/rt-slider/class.php:80
+msgid ""
+"Trust The Grounds Guys professionals to take care of your <br> commercial or "
+"residential grounds"
+msgstr ""
+
+#: gymedge-core.php:146
+msgid "Tue"
+msgstr ""
+
+#: gymedge-core.php:130 post-meta.php:310
+msgid "Tuesday"
+msgstr ""
+
+#: post-meta.php:155 vc-modules/intro.php:89 elementor/intro/class.php:114
+msgid "Twitter"
+msgstr ""
+
+#: widgets/about-widget.php:98
+msgid "Twitter URL"
+msgstr ""
+
+#: elementor/about-fitness/class.php:50 elementor/bmi-calculator/class.php:86
+#: elementor/button/class.php:108 elementor/class-grid/class.php:160
+#: elementor/class-slider/class.php:277 elementor/class-upcoming/class.php:256
+#: elementor/counter/class.php:134 elementor/cta/class.php:78
+#: elementor/experiences/class.php:56 elementor/gallery/class.php:80
+#: elementor/info-text/class.php:240 elementor/intro/class.php:205
+#: elementor/post-grid/class.php:74 elementor/post-list/class.php:74
+#: elementor/post-slider/class.php:255 elementor/product-slider/class.php:220
+#: elementor/routine/class.php:184 elementor/rt-slider/class.php:806
+#: elementor/rt-slider/class.php:874 elementor/rt-slider/class.php:1052
+#: elementor/schedule/class.php:83 elementor/skills/class.php:56
+#: elementor/testimonial-grid/class.php:99
+#: elementor/testimonial-slider/class.php:261 elementor/title/class.php:126
+#: elementor/trainer-grid/class.php:172 elementor/trainer-single/class.php:105
+#: elementor/trainer-slider/class.php:282
+msgid "Typography"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:28 vc-modules/views/bmi-calculator.php:14
+msgid "Underweight"
+msgstr ""
+
+#: elementor/pricing-box/class.php:55
+msgid "Unit"
+msgstr ""
+
+#: elementor/pricing-box/class.php:240
+msgid "Unit Color"
+msgstr ""
+
+#: vc-modules/pricing-box.php:78
+msgid "Unit Name"
+msgstr ""
+
+#: vc-modules/class-upcoming.php:8
+msgid "UPCOMIONG CLASSES"
+msgstr ""
+
+#: radius-posts/rt-posts.php:92
+msgid "Update"
+msgstr ""
+
+#: vc-modules/info-text.php:72
+msgid "Upload Image"
+msgstr ""
+
+#: elementor/rt-slider/class.php:684
+msgid "Vertical"
+msgstr ""
+
+#: elementor/image-carousel/class.php:474
+msgid "Vertical Align"
+msgstr ""
+
+#: radius-posts/rt-posts.php:45 elementor/image-carousel/class.php:188
+msgid "View"
+msgstr ""
+
+#: vc-modules/slider.php:205 elementor/rt-slider/class.php:1105
+msgid "Visible on hover"
+msgstr ""
+
+#: demo-importer.php:20
+#, php-format
+msgid ""
+"Warning: All your old data will be lost if you install One Click demo data "
+"from here, so it is suitable only for a new website. For existing website "
+"please use XML data import method which is described in the documentation <a "
+"%s>here</a>"
+msgstr ""
+
+#: gymedge-core.php:147
+msgid "Wed"
+msgstr ""
+
+#: gymedge-core.php:131 post-meta.php:311
+msgid "Wednesday"
+msgstr ""
+
+#: post-meta.php:305 vc-modules/schedule.php:26 elementor/schedule/class.php:41
+msgid "Weekday"
+msgstr ""
+
+#: post-meta.php:224 elementor/trainer-single/view.php:64
+#: vc-modules/views/trainer-single.php:60
+msgid "Weight"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:46
+msgid "Weight / kg"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:48
+msgid "Weight / lbs"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:63
+msgid "Weight Status"
+msgstr ""
+
+#: vc-modules/testimonial.php:8
+msgid "WHAT CLIENT'S SAY"
+msgstr ""
+
+#: vc-modules/counter.php:93 elementor/counter/class.php:73
+msgid "Width"
+msgstr ""
+
+#: elementor/rt-slider/class.php:1171
+msgid "Width / Height"
+msgstr ""
+
+#: vc-modules/post-list.php:43 vc-modules/post-slider.php:92
+msgid "Word count"
+msgstr ""
+
+#: vc-modules/class.php:122 vc-modules/class.php:135
+#: vc-modules/post-slider.php:86 vc-modules/product-slider.php:72
+#: vc-modules/testimonial.php:123 vc-modules/trainer.php:127
+#: vc-modules/trainer.php:140 elementor/class-grid/class.php:71
+#: elementor/class-slider/class.php:76 elementor/class-upcoming/class.php:111
+#: elementor/post-grid/class.php:48 elementor/post-list/class.php:48
+#: elementor/post-slider/class.php:86 elementor/product-slider/class.php:82
+#: elementor/testimonial-grid/class.php:66
+#: elementor/testimonial-slider/class.php:95
+#: elementor/trainer-grid/class.php:67 elementor/trainer-slider/class.php:73
+msgid "Write -1 to show all"
+msgstr ""
+
+#: elementor/image-carousel/class.php:105
+#: elementor/image-carousel/class.php:161
+#: elementor/image-carousel/class.php:210
+#: elementor/image-carousel/class.php:224
+#: elementor/image-carousel/class.php:242
+#: elementor/image-carousel/class.php:274 elementor/rt-slider/class.php:699
+#: elementor/rt-slider/class.php:713 elementor/rt-slider/class.php:730
+#: elementor/rt-slider/class.php:760
+msgid "Yes"
+msgstr ""
+
+#: elementor/bmi-calculator/view.php:53
+msgid "Your BMI is:"
+msgstr ""
+
+#: post-meta.php:175 vc-modules/intro.php:113 elementor/intro/class.php:135
+msgid "Youtube"
+msgstr ""
+
+#: widgets/about-widget.php:118
+msgid "YouTube URL"
+msgstr ""
+
+#: elementor/gallery/class.php:182
+msgid "Zoom Icon Background"
+msgstr ""
+
+#: elementor/gallery/class.php:190
+msgid "Zoom Icon Color"
+msgstr ""
+
+#: elementor/gallery/class.php:198
+msgid "Zoom Icon Hover Background"
+msgstr ""
+
+#: elementor/gallery/class.php:206
+msgid "Zoom Icon Hover Color"
+msgstr ""
+
+#: vc-modules/slider.php:193 elementor/rt-slider/class.php:112
+msgid "Zoom In"
+msgstr ""
+
+#: vc-modules/slider.php:194 elementor/rt-slider/class.php:113
+msgid "Zoom Out"
+msgstr ""
